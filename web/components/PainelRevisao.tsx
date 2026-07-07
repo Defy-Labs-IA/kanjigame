@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import { TODOS, type Kanji } from "@/lib/catalogo";
+import { type Kanji } from "@/lib/catalogo";
 
 type Status = "Pendente" | "Aprovado" | "Corrigido";
 type Decisao = { hiragana: string; status: Status; notas?: string };
@@ -43,7 +43,7 @@ function toRomaji(t: string): string {
   return o.toUpperCase();
 }
 
-export default function PainelRevisao() {
+export default function PainelRevisao({ kanjis }: { kanjis: Kanji[] }) {
   const [decisoes, setDecisoes] = useState<Mapa>({});
   const [filtro, setFiltro] = useState<"review" | "pending" | "all">("review");
   const [busca, setBusca] = useState("");
@@ -79,7 +79,7 @@ export default function PainelRevisao() {
     );
   }
 
-  const paraRevisar = useMemo(() => TODOS.filter((k) => k.needsReview), []);
+  const paraRevisar = useMemo(() => kanjis.filter((k) => k.needsReview), [kanjis]);
   const stats = useMemo(() => {
     let ap = 0, co = 0, pe = 0;
     paraRevisar.forEach((k) => {
@@ -91,16 +91,16 @@ export default function PainelRevisao() {
 
   const lista = useMemo(() => {
     const q = busca.trim().toLowerCase();
-    return TODOS.filter((k) => {
+    return kanjis.filter((k) => {
       if (q && !(k.kanji.includes(q) || k.significado.toLowerCase().includes(q))) return false;
       if (filtro === "review") return k.needsReview;
       if (filtro === "pending") return k.needsReview && (decisoes[k.id]?.status || "Pendente") === "Pendente";
       return true;
     });
-  }, [busca, filtro, decisoes]);
+  }, [busca, filtro, decisoes, kanjis]);
 
   function decididas() {
-    return TODOS.filter((k) => {
+    return kanjis.filter((k) => {
       const s = decisoes[k.id]?.status;
       return s === "Aprovado" || s === "Corrigido";
     }).map((k) => ({
@@ -139,7 +139,7 @@ export default function PainelRevisao() {
   return (
     <div>
       <div className="abar">
-        <span className="astat">Total <b>{TODOS.length}</b></span>
+        <span className="astat">Total <b>{kanjis.length}</b></span>
         <span className="astat">Pendentes <b>{stats.pe}</b></span>
         <span className="astat">Aprovados <b>{stats.ap}</b></span>
         <span className="astat">Corrigidos <b>{stats.co}</b></span>

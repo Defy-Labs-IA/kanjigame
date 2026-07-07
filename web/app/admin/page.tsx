@@ -1,7 +1,12 @@
 import Link from "next/link";
 import PainelRevisao from "@/components/PainelRevisao";
+import { getTodos } from "@/lib/catalogoDB";
 
-export default function AdminPage() {
+// lê o catálogo do banco a cada request
+export const dynamic = "force-dynamic";
+
+export default async function AdminPage() {
+  const kanjis = await getTodos();
   return (
     <main className="wrap">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
@@ -15,7 +20,7 @@ export default function AdminPage() {
           </form>
         </div>
       </div>
-      <PainelRevisao />
+      <PainelRevisao kanjis={kanjis} />
     </main>
   );
 }
