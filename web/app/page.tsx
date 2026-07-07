@@ -17,8 +17,8 @@ export default async function Home() {
         <h1>Kanji Memory Game</h1>
         <p>Aprender, ouvir, observar, escrever e lembrar.</p>
         <div className="actions">
-          <Link className="btn" href="/jogar">
-            Jogar Fase 1 — Números
+          <Link className="btn" href="/mapa">
+            Jogar
           </Link>
           <Link className="btn ghost" href="/admin">
             Painel do administrador
