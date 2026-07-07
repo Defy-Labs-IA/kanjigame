@@ -1,5 +1,6 @@
 import Link from "next/link";
 import PainelRevisao from "@/components/PainelRevisao";
+import BotaoSair from "@/components/BotaoSair";
 import { getTodos } from "@/lib/catalogoDB";
 
 // lê o catálogo do banco a cada request
@@ -15,9 +16,7 @@ export default async function AdminPage() {
         </h1>
         <div style={{ display: "flex", gap: 8 }}>
           <Link className="btn ghost" href="/">Início</Link>
-          <form action="/api/admin/logout" method="post">
-            <button className="btn ghost" type="submit">Sair</button>
-          </form>
+          <BotaoSair />
         </div>
       </div>
       <PainelRevisao kanjis={kanjis} />

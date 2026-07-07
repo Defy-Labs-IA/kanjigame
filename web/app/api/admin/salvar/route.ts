@@ -1,11 +1,14 @@
 import { NextResponse } from "next/server";
-import { cookies } from "next/headers";
 import { supabaseAdmin } from "@/lib/supabase";
+import { serverClient } from "@/lib/supabase-server";
 
 // Persiste as leituras revisadas no Supabase (escrita via service_role, no servidor).
-// Protegido pelo mesmo cookie do /admin (esta rota /api não passa pelo middleware).
+// Exige sessão Supabase (usuário logado no /admin).
 export async function POST(req: Request) {
-  if (cookies().get("kmg_admin")?.value !== "ok") {
+  const {
+    data: { user },
+  } = await serverClient().auth.getUser();
+  if (!user) {
     return NextResponse.json({ ok: false, erro: "não autenticado" }, { status: 401 });
   }
 
