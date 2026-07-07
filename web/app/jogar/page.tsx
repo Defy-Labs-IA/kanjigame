@@ -2,6 +2,9 @@ import Link from "next/link";
 import { getFase } from "@/lib/catalogoDB";
 import Jogo from "@/components/Jogo";
 
+// conteúdo vem do banco -> renderizar por request (sem cache estático)
+export const dynamic = "force-dynamic";
+
 export default async function JogarPage() {
   const kanjis = await getFase(1);
   return (

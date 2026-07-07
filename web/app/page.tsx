@@ -2,6 +2,9 @@ import Link from "next/link";
 import { getFase } from "@/lib/catalogoDB";
 import ModoSwitch from "@/components/ModoSwitch";
 
+// conteúdo vem do banco -> renderizar por request (sem cache estático)
+export const dynamic = "force-dynamic";
+
 export default async function Home() {
   const fase1 = await getFase(1);
   return (
