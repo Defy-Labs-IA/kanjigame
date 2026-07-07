@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kanji Memory Game — Painel de Revisão</title>
+<style>
+  :root{
+    --coral:#ff6b5e; --turq:#1bb3a6; --gold:#e0a800; --sakura:#f6c6d0;
+    --rice:#fbf9f4; --ink:#3a3a42; --line:#e6e1d8; --ok:#3bb273; --warn:#f0ad4e;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+       background:var(--rice);color:var(--ink);font-size:15px}
+  header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line);
+         padding:12px 18px;box-shadow:0 1px 6px rgba(0,0,0,.05)}
+  h1{font-size:18px;margin:0 0 8px}
+  h1 .jp{color:var(--coral)}
+  .bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+  .stat{font-size:13px;padding:4px 10px;border-radius:20px;background:#f3f0ea}
+  .stat b{color:var(--turq)}
+  input,button,select{font:inherit}
+  .search{padding:7px 12px;border:1px solid var(--line);border-radius:8px;min-width:180px}
+  .filters button{border:1px solid var(--line);background:#fff;padding:6px 12px;border-radius:8px;cursor:pointer}
+  .filters button.active{background:var(--turq);color:#fff;border-color:var(--turq)}
+  .exp{background:var(--coral);color:#fff;border:none;padding:8px 16px;border-radius:8px;cursor:pointer;font-weight:600}
+  .exp:hover{filter:brightness(.95)}
+  main{max-width:1100px;margin:18px auto;padding:0 14px;display:grid;
+       grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px;
+        display:flex;flex-direction:column;gap:10px}
+  .card.approved{border-color:var(--ok);box-shadow:0 0 0 2px rgba(59,178,115,.15)}
+  .card.corrected{border-color:var(--gold);box-shadow:0 0 0 2px rgba(224,168,0,.15)}
+  .top{display:flex;gap:12px}
+  .stroke{width:96px;height:96px;flex:none;border:1px solid var(--line);border-radius:10px;
+          background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .stroke svg{width:100%;height:100%}
+  .meta{flex:1;min-width:0}
+  .meta .mean{font-weight:600;font-size:16px}
+  .meta .sub{font-size:12px;color:#8a857c;margin-top:2px}
+  .id{font-size:11px;color:#b3ada2}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{font-size:12px;padding:3px 9px;border-radius:14px;border:1px solid var(--line);
+        background:#faf7f1;cursor:pointer}
+  .chip:hover{background:var(--sakura)}
+  .chip .lab{color:#b3ada2;margin-right:4px}
+  .readrow{display:flex;gap:8px;align-items:center}
+  .read{flex:1;padding:9px 12px;border:1px solid var(--line);border-radius:8px;font-size:17px}
+  .romaji{font-size:12px;color:#8a857c;min-height:14px}
+  .btns{display:flex;gap:6px;flex-wrap:wrap}
+  .btns button{border:1px solid var(--line);background:#fff;padding:7px 10px;border-radius:8px;cursor:pointer}
+  .btns .play{background:var(--turq);color:#fff;border:none}
+  .btns .synth{background:#eef;border-color:#ccd}
+  .btns .replay{background:#fff}
+  .act{display:flex;gap:8px;margin-top:2px}
+  .act button{flex:1;border:none;padding:9px;border-radius:8px;cursor:pointer;font-weight:600;color:#fff}
+  .act .ap{background:var(--ok)} .act .co{background:var(--gold)} .act .pe{background:#bbb}
+  .act button.sel{outline:3px solid rgba(0,0,0,.12)}
+  /* gate */
+  #gate{position:fixed;inset:0;background:var(--rice);display:flex;align-items:center;justify-content:center;z-index:20}
+  .gatebox{background:#fff;border:1px solid var(--line);border-radius:16px;padding:30px;max-width:340px;text-align:center}
+  .gatebox h2{margin:0 0 6px} .gatebox .jp{font-size:42px;color:var(--coral)}
+  .gatebox input{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;margin:12px 0}
+  .gatebox button{width:100%;background:var(--coral);color:#fff;border:none;padding:10px;border-radius:8px;cursor:pointer}
+  .err{color:var(--coral);font-size:13px;min-height:16px}
+  .note{font-size:11px;color:#b3ada2;margin-top:10px}
+  #empty{grid-column:1/-1;text-align:center;color:#b3ada2;padding:40px}
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <div class="gatebox">
+    <div class="jp">漢字</div>
+    <h2>Painel de Revisão</h2>
+    <div style="font-size:13px;color:#8a857c">Acesso restrito ao administrador</div>
+    <input id="key" type="password" placeholder="Chave de administrador" autofocus>
+    <button onclick="unlock()">Entrar</button>
+    <div class="err" id="gateErr"></div>
+    <div class="note">Trava simples do lado do cliente — troque a chave em <code>ADMIN_KEY</code>.
+    Para segurança real, use o painel autenticado (Next.js + Supabase).</div>
+  </div>
+</div>
+
+<header>
+  <h1><span class="jp">漢字</span> Revisão de leituras &amp; áudio</h1>
+  <div class="bar">
+    <span class="stat">Total <b id="sTotal">0</b></span>
+    <span class="stat">Pendentes <b id="sPend">0</b></span>
+    <span class="stat">Aprovados <b id="sAppr">0</b></span>
+    <span class="stat">Corrigidos <b id="sCorr">0</b></span>
+    <input class="search" id="search" placeholder="Buscar kanji ou significado…" oninput="render()">
+    <span class="filters" id="filters">
+      <button data-f="review" class="active" onclick="setFilter('review')">A revisar</button>
+      <button data-f="pending" onclick="setFilter('pending')">Só pendentes</button>
+      <button data-f="all" onclick="setFilter('all')">Todos</button>
+    </span>
+    <button class="exp" onclick="exportJSON()">⬇ Exportar decisões</button>
+  </div>
+</header>
+
+<main id="grid"></main>
+
+<script>
+const ADMIN_KEY = "kanji-admin";      // <-- TROQUE ESTA CHAVE
+const LS = "kmg_admin_decisions_v1";
+
+let DATA = [];
+let decisions = JSON.parse(localStorage.getItem(LS) || "{}");
+let filter = "review";
+let jaVoice = null;
+
+// ---- gate ----
+if (sessionStorage.getItem("kmg_admin_ok") === "1") document.getElementById("gate").style.display="none";
+function unlock(){
+  const v = document.getElementById("key").value;
+  if (v === ADMIN_KEY){ sessionStorage.setItem("kmg_admin_ok","1"); document.getElementById("gate").style.display="none"; }
+  else document.getElementById("gateErr").textContent = "Chave incorreta.";
+}
+document.getElementById("key").addEventListener("keydown",e=>{if(e.key==="Enter")unlock();});
+
+// ---- hiragana -> romaji (Hepburn simplificado) ----
+const R2={"きゃ":"kya","きゅ":"kyu","きょ":"kyo","しゃ":"sha","しゅ":"shu","しょ":"sho","ちゃ":"cha","ちゅ":"chu","ちょ":"cho","にゃ":"nya","にゅ":"nyu","にょ":"nyo","ひゃ":"hya","ひゅ":"hyu","ひょ":"hyo","みゃ":"mya","みゅ":"myu","みょ":"myo","りゃ":"rya","りゅ":"ryu","りょ":"ryo","ぎゃ":"gya","ぎゅ":"gyu","ぎょ":"gyo","じゃ":"ja","じゅ":"ju","じょ":"jo","びゃ":"bya","びゅ":"byu","びょ":"byo","ぴゃ":"pya","ぴゅ":"pyu","ぴょ":"pyo"};
+const R1={"あ":"a","い":"i","う":"u","え":"e","お":"o","か":"ka","き":"ki","く":"ku","け":"ke","こ":"ko","が":"ga","ぎ":"gi","ぐ":"gu","げ":"ge","ご":"go","さ":"sa","し":"shi","す":"su","せ":"se","そ":"so","ざ":"za","じ":"ji","ず":"zu","ぜ":"ze","ぞ":"zo","た":"ta","ち":"chi","つ":"tsu","て":"te","と":"to","だ":"da","ぢ":"ji","づ":"zu","で":"de","ど":"do","な":"na","に":"ni","ぬ":"nu","ね":"ne","の":"no","は":"ha","ひ":"hi","ふ":"fu","へ":"he","ほ":"ho","ば":"ba","び":"bi","ぶ":"bu","べ":"be","ぼ":"bo","ぱ":"pa","ぴ":"pi","ぷ":"pu","ぺ":"pe","ぽ":"po","ま":"ma","み":"mi","む":"mu","め":"me","も":"mo","や":"ya","ゆ":"yu","よ":"yo","ら":"ra","り":"ri","る":"ru","れ":"re","ろ":"ro","わ":"wa","を":"o","ん":"n","ー":"-"};
+function toRomaji(t){
+  t=(t||"").replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-0x60)); // kata->hira
+  let o="",i=0;
+  while(i<t.length){
+    const d=t.substr(i,2);
+    if(R2[d]){o+=R2[d];i+=2;continue;}
+    const c=t[i];
+    if(c==="っ"){const n=R2[t.substr(i+1,2)]||R1[t[i+1]]||"";if(n)o+=n[0];i++;continue;}
+    o+=(R1[c]||c);i++;
+  }
+  return o.toUpperCase();
+}
+
+// ---- voz ----
+function pickVoice(){
+  const vs=speechSynthesis.getVoices();
+  jaVoice=vs.find(v=>v.lang==="ja-JP")||vs.find(v=>v.lang&&v.lang.startsWith("ja"))||null;
+}
+speechSynthesis.onvoiceschanged=pickVoice; pickVoice();
+function speak(text){
+  if(!text)return;
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  u.lang="ja-JP"; if(jaVoice)u.voice=jaVoice; u.rate=.85;
+  speechSynthesis.speak(u);
+}
+function playMp3(id){
+  const a=new Audio("../assets/audio/"+id+".mp3");
+  a.play().catch(()=>alert("MP3 ainda não gerado para "+id+" (gere com gerar_audio.py)."));
+}
+
+// ---- stroke lazy load ----
+const strokeObs=new IntersectionObserver((ents)=>{
+  ents.forEach(e=>{if(e.isIntersecting){loadStroke(e.target);strokeObs.unobserve(e.target);}});
+});
+function loadStroke(box){
+  const id=box.dataset.id;
+  fetch("../assets/strokes/"+id+".svg").then(r=>r.ok?r.text():Promise.reject())
+    .then(svg=>{box.innerHTML=svg;}).catch(()=>{box.textContent="—";});
+}
+function replay(box){ box.innerHTML=""; loadStroke(box); }
+
+// ---- estado ----
+function decide(id,status){
+  const card=document.querySelector('.card[data-id="'+id+'"]');
+  const inp=card.querySelector(".read");
+  decisions[id]={hiragana:inp.value.trim(),status:status,notas:(decisions[id]&&decisions[id].notas)||""};
+  localStorage.setItem(LS,JSON.stringify(decisions));
+  paintCard(card,id); updateStats();
+}
+function onInput(id,val){
+  const card=document.querySelector('.card[data-id="'+id+'"]');
+  card.querySelector(".romaji").textContent=val?("→ "+toRomaji(val)):"";
+}
+
+// ---- render ----
+function setFilter(f){filter=f;document.querySelectorAll("#filters button").forEach(b=>b.classList.toggle("active",b.dataset.f===f));render();}
+function match(k){
+  const q=document.getElementById("search").value.trim().toLowerCase();
+  if(q && !(k.kanji.includes(q)||(k.significado||"").toLowerCase().includes(q)))return false;
+  if(filter==="review")return k.needsReview;
+  if(filter==="pending")return k.needsReview && (!decisions[k.id]||decisions[k.id].status==="Pendente");
+  return true;
+}
+function paintCard(card,id){
+  const d=decisions[id]; card.classList.remove("approved","corrected");
+  const st=d?d.status:"Pendente";
+  if(st==="Aprovado")card.classList.add("approved");
+  if(st==="Corrigido")card.classList.add("corrected");
+  card.querySelectorAll(".act button").forEach(b=>b.classList.toggle("sel",b.dataset.s===st));
+}
+function render(){
+  const grid=document.getElementById("grid"); grid.innerHTML="";
+  const list=DATA.filter(match);
+  if(!list.length){grid.innerHTML='<div id="empty">Nada aqui com este filtro/busca.</div>';return;}
+  for(const k of list){
+    const d=decisions[k.id];
+    const val=d?d.hiragana:k.hiragana;
+    const chips=[...k.on.map(x=>`<span class="chip" onclick="setRead('${k.id}','${x}')"><span class="lab">on</span>${x}</span>`),
+                 ...k.kun.map(x=>`<span class="chip" onclick="setRead('${k.id}','${x}')"><span class="lab">kun</span>${x}</span>`)].join("");
+    const card=document.createElement("div");
+    card.className="card"; card.dataset.id=k.id;
+    card.innerHTML=`
+      <div class="top">
+        <div class="stroke" data-id="${k.id}">…</div>
+        <div class="meta">
+          <div class="mean">${k.significado}</div>
+          <div class="sub">${k.mundo} · Fase ${k.fase} · ${k.tracos||"?"} traços</div>
+          <div class="id">${k.id} &nbsp; <span style="font-size:22px">${k.kanji}</span></div>
+        </div>
+      </div>
+      <div class="chips">${chips||'<span class="sub">sem candidatas</span>'}</div>
+      <div class="readrow">
+        <input class="read" value="${val||""}" oninput="onInput('${k.id}',this.value)">
+      </div>
+      <div class="romaji">${val?("→ "+toRomaji(val)):""}</div>
+      <div class="btns">
+        <button class="synth" onclick="speak(this.closest('.card').querySelector('.read').value)">🔊 Sintetizar</button>
+        <button class="play" onclick="playMp3('${k.id}')">▶ MP3 atual</button>
+        <button class="replay" onclick="replay(this.closest('.card').querySelector('.stroke'))">↻ Traços</button>
+      </div>
+      <div class="act">
+        <button class="ap" data-s="Aprovado" onclick="decide('${k.id}','Aprovado')">Aprovar</button>
+        <button class="co" data-s="Corrigido" onclick="decide('${k.id}','Corrigido')">Corrigido</button>
+        <button class="pe" data-s="Pendente" onclick="decide('${k.id}','Pendente')">Pendente</button>
+      </div>`;
+    grid.appendChild(card);
+    paintCard(card,k.id);
+    strokeObs.observe(card.querySelector(".stroke"));
+  }
+}
+function setRead(id,reading){
+  const clean=reading.split(".")[0].replace(/-/g,"").trim();
+  const card=document.querySelector('.card[data-id="'+id+'"]');
+  const inp=card.querySelector(".read");
+  // converte katakana (on) para hiragana ao inserir
+  inp.value=clean.replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-0x60));
+  onInput(id,inp.value); speak(inp.value);
+}
+function updateStats(){
+  const rev=DATA.filter(k=>k.needsReview);
+  let ap=0,co=0,pe=0;
+  rev.forEach(k=>{const s=decisions[k.id]?decisions[k.id].status:"Pendente";
+    if(s==="Aprovado")ap++;else if(s==="Corrigido")co++;else pe++;});
+  document.getElementById("sTotal").textContent=DATA.length;
+  document.getElementById("sPend").textContent=pe;
+  document.getElementById("sAppr").textContent=ap;
+  document.getElementById("sCorr").textContent=co;
+}
+function exportJSON(){
+  const out=[];
+  for(const k of DATA){
+    const d=decisions[k.id];
+    if(d && (d.status==="Aprovado"||d.status==="Corrigido"))
+      out.push({id:k.id,hiragana:d.hiragana,status:d.status,notas:d.notas||""});
+  }
+  if(!out.length){alert("Nenhuma decisão para exportar ainda.");return;}
+  const blob=new Blob([JSON.stringify(out,null,1)],{type:"application/json"});
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(blob); a.download="decisoes.json"; a.click();
+}
+
+// ---- init ----
+fetch("data/catalogo.json").then(r=>r.json()).then(d=>{DATA=d;updateStats();render();})
+  .catch(()=>{document.getElementById("grid").innerHTML=
+    '<div id="empty">Não achei data/catalogo.json.<br>Rode <code>python scripts/exportar_json_admin.py</code> e sirva a pasta com <code>python -m http.server</code>.</div>';});
+</script>
+</body>
+</html>

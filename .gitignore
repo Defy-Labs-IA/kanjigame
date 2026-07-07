@@ -1,0 +1,26 @@
+# ===== dependências / build =====
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+web/next-env.d.ts
+
+# ===== segredos / ambiente (NUNCA commitar chaves) =====
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+# mantém os templates
+!**/.env.example
+
+# ===== python =====
+__pycache__/
+*.pyc
+scripts/cache/
+
+# ===== SO / diversos =====
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,5946 @@
+[
+ {
+  "id": "K001",
+  "kanji": "一",
+  "significado": "Um",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "いち",
+  "romaji": "ICHI",
+  "on": [
+   "イチ",
+   "イツ"
+  ],
+  "kun": [
+   "ひと",
+   "ひとつ"
+  ],
+  "tracos": 1,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K002",
+  "kanji": "二",
+  "significado": "Dois",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "に",
+  "romaji": "NI",
+  "on": [
+   "ニ"
+  ],
+  "kun": [
+   "ふた",
+   "ふたつ"
+  ],
+  "tracos": 2,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K003",
+  "kanji": "三",
+  "significado": "Três",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "さん",
+  "romaji": "SAN",
+  "on": [
+   "サン"
+  ],
+  "kun": [
+   "み",
+   "みっつ"
+  ],
+  "tracos": 3,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K004",
+  "kanji": "四",
+  "significado": "Quatro",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "よん",
+  "romaji": "YON",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "よ",
+   "よん",
+   "よっつ"
+  ],
+  "tracos": 5,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K005",
+  "kanji": "五",
+  "significado": "Cinco",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "ご",
+  "romaji": "GO",
+  "on": [
+   "ゴ"
+  ],
+  "kun": [
+   "いつ",
+   "いつつ"
+  ],
+  "tracos": 4,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K006",
+  "kanji": "六",
+  "significado": "Seis",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "ろく",
+  "romaji": "ROKU",
+  "on": [
+   "ロク"
+  ],
+  "kun": [
+   "む",
+   "むっつ"
+  ],
+  "tracos": 4,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K007",
+  "kanji": "七",
+  "significado": "Sete",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "なな",
+  "romaji": "NANA",
+  "on": [
+   "シチ"
+  ],
+  "kun": [
+   "なな",
+   "ななつ"
+  ],
+  "tracos": 2,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K008",
+  "kanji": "八",
+  "significado": "Oito",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "はち",
+  "romaji": "HACHI",
+  "on": [
+   "ハチ"
+  ],
+  "kun": [
+   "や",
+   "やっつ"
+  ],
+  "tracos": 2,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K009",
+  "kanji": "九",
+  "significado": "Nove",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "きゅう",
+  "romaji": "KYUU",
+  "on": [
+   "キュウ",
+   "ク"
+  ],
+  "kun": [
+   "ここの",
+   "ここのつ"
+  ],
+  "tracos": 2,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K010",
+  "kanji": "十",
+  "significado": "Dez",
+  "mundo": "Primeiros Símbolos",
+  "fase": 1,
+  "hiragana": "じゅう",
+  "romaji": "JUU",
+  "on": [
+   "ジュウ",
+   "ジッ"
+  ],
+  "kun": [
+   "とお"
+  ],
+  "tracos": 2,
+  "needsReview": false,
+  "status": "Validado para protótipo"
+ },
+ {
+  "id": "K011",
+  "kanji": "右",
+  "significado": "Direita",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "みぎ",
+  "romaji": "MIGI",
+  "on": [
+   "ウ",
+   "ユウ"
+  ],
+  "kun": [
+   "みぎ"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K012",
+  "kanji": "雨",
+  "significado": "Chuva",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "あめ",
+  "romaji": "AME",
+  "on": [
+   "ウ"
+  ],
+  "kun": [
+   "-さめ",
+   "あま-",
+   "あめ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K013",
+  "kanji": "円",
+  "significado": "Círculo; iene",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "まど",
+  "romaji": "MADO",
+  "on": [
+   "エン"
+  ],
+  "kun": [
+   "まど",
+   "まど.か",
+   "まる",
+   "まる.い",
+   "まろ.やか"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K014",
+  "kanji": "王",
+  "significado": "Rei",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "おう",
+  "romaji": "OU",
+  "on": [
+   "-ノウ",
+   "オウ"
+  ],
+  "kun": [],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K015",
+  "kanji": "音",
+  "significado": "Som",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "おと",
+  "romaji": "OTO",
+  "on": [
+   "-ノン",
+   "イン",
+   "オン"
+  ],
+  "kun": [
+   "おと",
+   "ね"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K016",
+  "kanji": "下",
+  "significado": "Abaixo; descer",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "お",
+  "romaji": "O",
+  "on": [
+   "カ",
+   "ゲ"
+  ],
+  "kun": [
+   "-くだ.す",
+   "お.りる",
+   "お.ろす",
+   "くだ.さる",
+   "くだ.す",
+   "くだ.り",
+   "くだ.る",
+   "さ.がる",
+   "さ.げる",
+   "した",
+   "しも",
+   "もと"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K017",
+  "kanji": "火",
+  "significado": "Fogo",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "ひ",
+  "romaji": "HI",
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "-び",
+   "ひ",
+   "ほ-"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K018",
+  "kanji": "花",
+  "significado": "Flor",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "はな",
+  "romaji": "HANA",
+  "on": [
+   "カ",
+   "ケ"
+  ],
+  "kun": [
+   "はな"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K019",
+  "kanji": "貝",
+  "significado": "Concha",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "かい",
+  "romaji": "KAI",
+  "on": [
+   "バイ"
+  ],
+  "kun": [
+   "かい"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K020",
+  "kanji": "学",
+  "significado": "Estudo; aprender",
+  "mundo": "Primeiros Símbolos",
+  "fase": 2,
+  "hiragana": "まな",
+  "romaji": "MANA",
+  "on": [
+   "ガク"
+  ],
+  "kun": [
+   "まな.ぶ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K021",
+  "kanji": "気",
+  "significado": "Energia; espírito",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "キ",
+   "ケ"
+  ],
+  "kun": [
+   "き"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K022",
+  "kanji": "休",
+  "significado": "Descansar",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "やす",
+  "romaji": "YASU",
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "やす.まる",
+   "やす.む",
+   "やす.める"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K023",
+  "kanji": "玉",
+  "significado": "Joia; esfera",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "たま",
+  "romaji": "TAMA",
+  "on": [
+   "ギョク"
+  ],
+  "kun": [
+   "-だま",
+   "たま",
+   "たま-"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K024",
+  "kanji": "金",
+  "significado": "Ouro; dinheiro",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "かね",
+  "romaji": "KANE",
+  "on": [
+   "キン",
+   "コン",
+   "ゴン"
+  ],
+  "kun": [
+   "-がね",
+   "かな-",
+   "かね"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K025",
+  "kanji": "空",
+  "significado": "Céu; vazio",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "クウ"
+  ],
+  "kun": [
+   "あ.き",
+   "あ.く",
+   "あ.ける",
+   "から",
+   "す.かす",
+   "す.く",
+   "そら",
+   "むな.しい"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K026",
+  "kanji": "月",
+  "significado": "Lua; mês",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "つき",
+  "romaji": "TSUKI",
+  "on": [
+   "ガツ",
+   "ゲツ"
+  ],
+  "kun": [
+   "つき"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K027",
+  "kanji": "犬",
+  "significado": "Cão",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "いぬ",
+  "romaji": "INU",
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "いぬ",
+   "いぬ-"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K028",
+  "kanji": "見",
+  "significado": "Ver",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "み",
+  "romaji": "MI",
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "み.える",
+   "み.せる",
+   "み.る"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K029",
+  "kanji": "口",
+  "significado": "Boca",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "くち",
+  "romaji": "KUCHI",
+  "on": [
+   "ク",
+   "コウ"
+  ],
+  "kun": [
+   "くち"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K030",
+  "kanji": "校",
+  "significado": "Escola",
+  "mundo": "Primeiros Símbolos",
+  "fase": 3,
+  "hiragana": "きょう",
+  "romaji": "KYOU",
+  "on": [
+   "キョウ",
+   "コウ"
+  ],
+  "kun": [],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K031",
+  "kanji": "左",
+  "significado": "Esquerda",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "ひだり",
+  "romaji": "HIDARI",
+  "on": [
+   "サ",
+   "シャ"
+  ],
+  "kun": [
+   "ひだり"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K032",
+  "kanji": "山",
+  "significado": "Montanha",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "やま",
+  "romaji": "YAMA",
+  "on": [
+   "サン",
+   "セン"
+  ],
+  "kun": [
+   "やま"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K033",
+  "kanji": "子",
+  "significado": "Criança",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "こ",
+  "romaji": "KO",
+  "on": [
+   "シ",
+   "ス",
+   "ツ"
+  ],
+  "kun": [
+   "-こ",
+   "こ",
+   "ね"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K034",
+  "kanji": "糸",
+  "significado": "Fio",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "いと",
+  "romaji": "ITO",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "いと"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K035",
+  "kanji": "字",
+  "significado": "Caractere; letra",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "あざ",
+  "romaji": "AZA",
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "-な",
+   "あざ",
+   "あざな"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K036",
+  "kanji": "耳",
+  "significado": "Orelha",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "みみ",
+  "romaji": "MIMI",
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "みみ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K037",
+  "kanji": "車",
+  "significado": "Carro; veículo",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "くるま",
+  "romaji": "KURUMA",
+  "on": [
+   "シャ"
+  ],
+  "kun": [
+   "くるま"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K038",
+  "kanji": "手",
+  "significado": "Mão",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "て",
+  "romaji": "TE",
+  "on": [
+   "シュ",
+   "ズ"
+  ],
+  "kun": [
+   "-て",
+   "た-",
+   "て",
+   "て-"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K039",
+  "kanji": "出",
+  "significado": "Sair",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "シュツ",
+   "スイ"
+  ],
+  "kun": [
+   "-だ.す",
+   "-で",
+   "い.だす",
+   "い.でる",
+   "だ.す",
+   "で.る"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K040",
+  "kanji": "女",
+  "significado": "Mulher",
+  "mundo": "Primeiros Símbolos",
+  "fase": 4,
+  "hiragana": "おんな",
+  "romaji": "ONNA",
+  "on": [
+   "ジョ",
+   "ニョ",
+   "ニョウ"
+  ],
+  "kun": [
+   "おんな",
+   "め"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K041",
+  "kanji": "小",
+  "significado": "Pequeno",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "ちい",
+  "romaji": "CHII",
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "お-",
+   "こ-",
+   "さ-",
+   "ちい.さい"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K042",
+  "kanji": "上",
+  "significado": "Acima; subir",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "シャン",
+   "ショウ",
+   "ジョウ"
+  ],
+  "kun": [
+   "-あ.がり",
+   "-あ.がる",
+   "-あ.げる",
+   "-うえ",
+   "あ.がり",
+   "あ.がる",
+   "あ.げる",
+   "うえ",
+   "うわ-",
+   "かみ",
+   "たてまつ.る",
+   "のぼ.す",
+   "のぼ.せる",
+   "のぼ.り",
+   "のぼ.る"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K043",
+  "kanji": "森",
+  "significado": "Floresta",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "もり",
+  "romaji": "MORI",
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "もり"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K044",
+  "kanji": "人",
+  "significado": "Pessoa",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "ひと",
+  "romaji": "HITO",
+  "on": [
+   "ジン",
+   "ニン"
+  ],
+  "kun": [
+   "-と",
+   "-り",
+   "ひと"
+  ],
+  "tracos": 2,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K045",
+  "kanji": "水",
+  "significado": "Água",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "みず",
+  "romaji": "MIZU",
+  "on": [
+   "スイ"
+  ],
+  "kun": [
+   "みず",
+   "みず-"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K046",
+  "kanji": "正",
+  "significado": "Correto",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "ただ",
+  "romaji": "TADA",
+  "on": [
+   "ショウ",
+   "セイ"
+  ],
+  "kun": [
+   "ただ.しい",
+   "ただ.す",
+   "まさ",
+   "まさ.に"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K047",
+  "kanji": "生",
+  "significado": "Vida; nascer",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "ショウ",
+   "セイ"
+  ],
+  "kun": [
+   "-う",
+   "い.かす",
+   "い.きる",
+   "い.ける",
+   "う.まれ",
+   "う.まれる",
+   "う.む",
+   "うま.れる",
+   "うまれ",
+   "お.う",
+   "き",
+   "な.す",
+   "な.る",
+   "なま",
+   "なま-",
+   "は.える",
+   "は.やす",
+   "む.す"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K048",
+  "kanji": "青",
+  "significado": "Azul; verde",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "あお",
+  "romaji": "AO",
+  "on": [
+   "ショウ",
+   "セイ"
+  ],
+  "kun": [
+   "あお",
+   "あお-",
+   "あお.い"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K049",
+  "kanji": "石",
+  "significado": "Pedra",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "いし",
+  "romaji": "ISHI",
+  "on": [
+   "コク",
+   "シャク",
+   "セキ"
+  ],
+  "kun": [
+   "いし"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K050",
+  "kanji": "赤",
+  "significado": "Vermelho",
+  "mundo": "Primeiros Símbolos",
+  "fase": 5,
+  "hiragana": "あか",
+  "romaji": "AKA",
+  "on": [
+   "シャク",
+   "セキ"
+  ],
+  "kun": [
+   "あか",
+   "あか-",
+   "あか.い",
+   "あか.らむ",
+   "あか.らめる"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K051",
+  "kanji": "先",
+  "significado": "Antes; à frente",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "さき",
+  "romaji": "SAKI",
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "さき",
+   "ま.ず"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K052",
+  "kanji": "千",
+  "significado": "Mil",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "ち",
+  "romaji": "CHI",
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "ち"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K053",
+  "kanji": "川",
+  "significado": "Rio",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "かわ",
+  "romaji": "KAWA",
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "かわ"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K054",
+  "kanji": "早",
+  "significado": "Cedo; rápido",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "はや",
+  "romaji": "HAYA",
+  "on": [
+   "サッ",
+   "ソウ"
+  ],
+  "kun": [
+   "さ-",
+   "はや",
+   "はや-",
+   "はや.い",
+   "はや.まる",
+   "はや.める"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K055",
+  "kanji": "草",
+  "significado": "Grama",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "くさ",
+  "romaji": "KUSA",
+  "on": [
+   "ソウ"
+  ],
+  "kun": [
+   "-ぐさ",
+   "くさ",
+   "くさ-"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K056",
+  "kanji": "足",
+  "significado": "Pé; perna",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "あし",
+  "romaji": "ASHI",
+  "on": [
+   "ソク"
+  ],
+  "kun": [
+   "あし",
+   "た.す",
+   "た.りる",
+   "た.る"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K057",
+  "kanji": "村",
+  "significado": "Vila",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "むら",
+  "romaji": "MURA",
+  "on": [
+   "ソン"
+  ],
+  "kun": [
+   "むら"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K058",
+  "kanji": "大",
+  "significado": "Grande",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "おお",
+  "romaji": "OO",
+  "on": [
+   "タイ",
+   "ダイ"
+  ],
+  "kun": [
+   "-おお.いに",
+   "おお-",
+   "おお.きい"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K059",
+  "kanji": "男",
+  "significado": "Homem",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "お",
+  "romaji": "O",
+  "on": [
+   "ダン",
+   "ナン"
+  ],
+  "kun": [
+   "お",
+   "おとこ"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K060",
+  "kanji": "竹",
+  "significado": "Bambu",
+  "mundo": "Natureza",
+  "fase": 6,
+  "hiragana": "たけ",
+  "romaji": "TAKE",
+  "on": [
+   "チク"
+  ],
+  "kun": [
+   "たけ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K061",
+  "kanji": "中",
+  "significado": "Centro; dentro",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "あた",
+  "romaji": "ATA",
+  "on": [
+   "チュウ"
+  ],
+  "kun": [
+   "あた.る",
+   "うち",
+   "なか"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K062",
+  "kanji": "虫",
+  "significado": "Inseto",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "むし",
+  "romaji": "MUSHI",
+  "on": [
+   "キ",
+   "チュウ"
+  ],
+  "kun": [
+   "むし"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K063",
+  "kanji": "町",
+  "significado": "Cidade pequena",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "まち",
+  "romaji": "MACHI",
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "まち"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K064",
+  "kanji": "天",
+  "significado": "Céu",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "あまつ",
+  "romaji": "AMATSU",
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "あま-",
+   "あまつ",
+   "あめ"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K065",
+  "kanji": "田",
+  "significado": "Arrozal",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "た",
+  "romaji": "TA",
+  "on": [
+   "デン"
+  ],
+  "kun": [
+   "た"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K066",
+  "kanji": "土",
+  "significado": "Terra; solo",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "つち",
+  "romaji": "TSUCHI",
+  "on": [
+   "ト",
+   "ド"
+  ],
+  "kun": [
+   "つち"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K067",
+  "kanji": "日",
+  "significado": "Sol; dia",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "ひ",
+  "romaji": "HI",
+  "on": [
+   "ジツ",
+   "ニチ"
+  ],
+  "kun": [
+   "-か",
+   "-び",
+   "ひ"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K068",
+  "kanji": "入",
+  "significado": "Entrar",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "ジュ",
+   "ニュウ"
+  ],
+  "kun": [
+   "-い.り",
+   "-い.る",
+   "-い.れ",
+   "い.る",
+   "い.れる",
+   "はい.る"
+  ],
+  "tracos": 2,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K069",
+  "kanji": "年",
+  "significado": "Ano",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "とし",
+  "romaji": "TOSHI",
+  "on": [
+   "ネン"
+  ],
+  "kun": [
+   "とし"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K070",
+  "kanji": "白",
+  "significado": "Branco",
+  "mundo": "Natureza",
+  "fase": 7,
+  "hiragana": "しろ",
+  "romaji": "SHIRO",
+  "on": [
+   "ハク",
+   "ビャク"
+  ],
+  "kun": [
+   "しら-",
+   "しろ",
+   "しろ.い"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K071",
+  "kanji": "百",
+  "significado": "Cem",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "もも",
+  "romaji": "MOMO",
+  "on": [
+   "ヒャク",
+   "ビャク"
+  ],
+  "kun": [
+   "もも"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K072",
+  "kanji": "文",
+  "significado": "Texto; literatura",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "あや",
+  "romaji": "AYA",
+  "on": [
+   "ブン",
+   "モン"
+  ],
+  "kun": [
+   "あや",
+   "ふみ"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K073",
+  "kanji": "本",
+  "significado": "Livro; origem",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "もと",
+  "romaji": "MOTO",
+  "on": [
+   "ホン"
+  ],
+  "kun": [
+   "もと"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K074",
+  "kanji": "名",
+  "significado": "Nome",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "な",
+  "romaji": "NA",
+  "on": [
+   "ミョウ",
+   "メイ"
+  ],
+  "kun": [
+   "-な",
+   "な"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K075",
+  "kanji": "木",
+  "significado": "Árvore; madeira",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "ボク",
+   "モク"
+  ],
+  "kun": [
+   "き",
+   "こ-"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K076",
+  "kanji": "目",
+  "significado": "Olho",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "め",
+  "romaji": "ME",
+  "on": [
+   "ボク",
+   "モク"
+  ],
+  "kun": [
+   "-め",
+   "ま-",
+   "め"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K077",
+  "kanji": "夕",
+  "significado": "Entardecer",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "ゆう",
+  "romaji": "YUU",
+  "on": [
+   "セキ"
+  ],
+  "kun": [
+   "ゆう"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K078",
+  "kanji": "立",
+  "significado": "Ficar em pé",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "た",
+  "romaji": "TA",
+  "on": [
+   "リットル",
+   "リツ",
+   "リュウ"
+  ],
+  "kun": [
+   "-た.つ",
+   "-た.て",
+   "-た.てる",
+   "-だ.て",
+   "-だ.てる",
+   "た.ち-",
+   "た.つ",
+   "た.て-",
+   "た.てる",
+   "たて-"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K079",
+  "kanji": "力",
+  "significado": "Força",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "ちから",
+  "romaji": "CHIKARA",
+  "on": [
+   "リイ",
+   "リキ",
+   "リョク"
+  ],
+  "kun": [
+   "ちから"
+  ],
+  "tracos": 2,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K080",
+  "kanji": "林",
+  "significado": "Bosque",
+  "mundo": "Natureza",
+  "fase": 8,
+  "hiragana": "はやし",
+  "romaji": "HAYASHI",
+  "on": [
+   "リン"
+  ],
+  "kun": [
+   "はやし"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K081",
+  "kanji": "引",
+  "significado": "Puxar",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "ひ",
+  "romaji": "HI",
+  "on": [
+   "イン"
+  ],
+  "kun": [
+   "ひ.く",
+   "ひ.ける"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K082",
+  "kanji": "羽",
+  "significado": "Pena; asa",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "は",
+  "romaji": "HA",
+  "on": [
+   "ウ"
+  ],
+  "kun": [
+   "は",
+   "はね",
+   "わ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K083",
+  "kanji": "雲",
+  "significado": "Nuvem",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "くも",
+  "romaji": "KUMO",
+  "on": [
+   "ウン"
+  ],
+  "kun": [
+   "-ぐも",
+   "くも"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K084",
+  "kanji": "園",
+  "significado": "Jardim; parque",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "その",
+  "romaji": "SONO",
+  "on": [
+   "エン"
+  ],
+  "kun": [
+   "その"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K085",
+  "kanji": "遠",
+  "significado": "Distante",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "とお",
+  "romaji": "TOO",
+  "on": [
+   "エン",
+   "オン"
+  ],
+  "kun": [
+   "とお.い"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K086",
+  "kanji": "黄",
+  "significado": "Amarelo",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "オウ",
+   "コウ"
+  ],
+  "kun": [
+   "き",
+   "こ-"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K087",
+  "kanji": "何",
+  "significado": "O quê",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "なに",
+  "romaji": "NANI",
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "なに",
+   "なに-",
+   "なん",
+   "なん-"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K088",
+  "kanji": "夏",
+  "significado": "Verão",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "なつ",
+  "romaji": "NATSU",
+  "on": [
+   "カ",
+   "ガ",
+   "ゲ"
+  ],
+  "kun": [
+   "なつ"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K089",
+  "kanji": "家",
+  "significado": "Casa; família",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "いえ",
+  "romaji": "IE",
+  "on": [
+   "カ",
+   "ケ"
+  ],
+  "kun": [
+   "いえ",
+   "うち",
+   "や"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K090",
+  "kanji": "科",
+  "significado": "Matéria; departamento",
+  "mundo": "Natureza",
+  "fase": 9,
+  "hiragana": "か",
+  "romaji": "KA",
+  "on": [
+   "カ"
+  ],
+  "kun": [],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K091",
+  "kanji": "歌",
+  "significado": "Canção; cantar",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "うた",
+  "romaji": "UTA",
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "うた",
+   "うた.う"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K092",
+  "kanji": "画",
+  "significado": "Imagem; traço",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "えが",
+  "romaji": "EGA",
+  "on": [
+   "エ",
+   "カイ",
+   "カク",
+   "ガ"
+  ],
+  "kun": [
+   "えが.く",
+   "かぎ.る",
+   "かく.する",
+   "はか.る",
+   "はかりごと"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K093",
+  "kanji": "会",
+  "significado": "Encontrar; reunião",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "エ",
+   "カイ"
+  ],
+  "kun": [
+   "あ.う",
+   "あ.わせる",
+   "あつ.まる"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K094",
+  "kanji": "回",
+  "significado": "Vez; girar",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "か",
+  "romaji": "KA",
+  "on": [
+   "エ",
+   "カイ"
+  ],
+  "kun": [
+   "-まわ.し",
+   "-まわ.す",
+   "-まわ.り",
+   "-まわ.る",
+   "か.える",
+   "まわ.し-",
+   "まわ.す",
+   "まわ.る",
+   "もとお.る"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K095",
+  "kanji": "海",
+  "significado": "Mar",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "うみ",
+  "romaji": "UMI",
+  "on": [
+   "カイ"
+  ],
+  "kun": [
+   "うみ"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K096",
+  "kanji": "絵",
+  "significado": "Desenho; pintura",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "え",
+  "romaji": "E",
+  "on": [
+   "エ",
+   "カイ"
+  ],
+  "kun": [],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K097",
+  "kanji": "外",
+  "significado": "Fora",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "そと",
+  "romaji": "SOTO",
+  "on": [
+   "ガイ",
+   "ゲ"
+  ],
+  "kun": [
+   "そと",
+   "と-",
+   "はず.す",
+   "はず.れる",
+   "ほか"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K098",
+  "kanji": "角",
+  "significado": "Ângulo; canto",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "かど",
+  "romaji": "KADO",
+  "on": [
+   "カク"
+  ],
+  "kun": [
+   "かど",
+   "つの"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K099",
+  "kanji": "楽",
+  "significado": "Diversão; música",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "この",
+  "romaji": "KONO",
+  "on": [
+   "ガク",
+   "ゴウ",
+   "ラク"
+  ],
+  "kun": [
+   "この.む",
+   "たの.しい",
+   "たの.しむ"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K100",
+  "kanji": "活",
+  "significado": "Vida; atividade",
+  "mundo": "Natureza",
+  "fase": 10,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "カツ"
+  ],
+  "kun": [
+   "い.かす",
+   "い.きる",
+   "い.ける"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K101",
+  "kanji": "間",
+  "significado": "Intervalo; espaço",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "あい",
+  "romaji": "AI",
+  "on": [
+   "カン",
+   "ケン"
+  ],
+  "kun": [
+   "あい",
+   "あいだ",
+   "ま"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K102",
+  "kanji": "丸",
+  "significado": "Redondo",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "まる",
+  "romaji": "MARU",
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "まる",
+   "まる.い",
+   "まる.める"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K103",
+  "kanji": "岩",
+  "significado": "Rocha",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "いわ",
+  "romaji": "IWA",
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "いわ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K104",
+  "kanji": "顔",
+  "significado": "Rosto",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "かお",
+  "romaji": "KAO",
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "かお"
+  ],
+  "tracos": 18,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K105",
+  "kanji": "帰",
+  "significado": "Voltar",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "おく",
+  "romaji": "OKU",
+  "on": [
+   "キ"
+  ],
+  "kun": [
+   "おく.る",
+   "かえ.す",
+   "かえ.る",
+   "とつ.ぐ"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K106",
+  "kanji": "汽",
+  "significado": "Vapor",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "キ"
+  ],
+  "kun": [],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K107",
+  "kanji": "記",
+  "significado": "Registrar",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "しる",
+  "romaji": "SHIRU",
+  "on": [
+   "キ"
+  ],
+  "kun": [
+   "しる.す"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K108",
+  "kanji": "弓",
+  "significado": "Arco",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "ゆみ",
+  "romaji": "YUMI",
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "ゆみ"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K109",
+  "kanji": "牛",
+  "significado": "Vaca; boi",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "うし",
+  "romaji": "USHI",
+  "on": [
+   "ギュウ"
+  ],
+  "kun": [
+   "うし"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K110",
+  "kanji": "魚",
+  "significado": "Peixe",
+  "mundo": "Vida Cotidiana",
+  "fase": 11,
+  "hiragana": "うお",
+  "romaji": "UO",
+  "on": [
+   "ギョ"
+  ],
+  "kun": [
+   "-ざかな",
+   "うお",
+   "さかな"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K111",
+  "kanji": "京",
+  "significado": "Capital",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "みやこ",
+  "romaji": "MIYAKO",
+  "on": [
+   "キョウ",
+   "キン",
+   "ケイ"
+  ],
+  "kun": [
+   "みやこ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K112",
+  "kanji": "強",
+  "significado": "Forte",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "こわ",
+  "romaji": "KOWA",
+  "on": [
+   "キョウ",
+   "ゴウ"
+  ],
+  "kun": [
+   "こわ.い",
+   "し.いる",
+   "つよ.い",
+   "つよ.まる",
+   "つよ.める"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K113",
+  "kanji": "教",
+  "significado": "Ensinar",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "おし",
+  "romaji": "OSHI",
+  "on": [
+   "キョウ"
+  ],
+  "kun": [
+   "おし.える",
+   "おそ.わる"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K114",
+  "kanji": "近",
+  "significado": "Perto",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "ちか",
+  "romaji": "CHIKA",
+  "on": [
+   "キン",
+   "コン"
+  ],
+  "kun": [
+   "ちか.い"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K115",
+  "kanji": "兄",
+  "significado": "Irmão mais velho",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "あに",
+  "romaji": "ANI",
+  "on": [
+   "キョウ",
+   "ケイ"
+  ],
+  "kun": [
+   "あに"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K116",
+  "kanji": "形",
+  "significado": "Forma",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "かた",
+  "romaji": "KATA",
+  "on": [
+   "ギョウ",
+   "ケイ"
+  ],
+  "kun": [
+   "-がた",
+   "かた",
+   "かたち",
+   "なり"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K117",
+  "kanji": "計",
+  "significado": "Medir; plano",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "はか",
+  "romaji": "HAKA",
+  "on": [
+   "ケイ"
+  ],
+  "kun": [
+   "はか.らう",
+   "はか.る"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K118",
+  "kanji": "元",
+  "significado": "Origem; início",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "もと",
+  "romaji": "MOTO",
+  "on": [
+   "ガン",
+   "ゲン"
+  ],
+  "kun": [
+   "もと"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K119",
+  "kanji": "原",
+  "significado": "Origem; campo",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "はら",
+  "romaji": "HARA",
+  "on": [
+   "ゲン"
+  ],
+  "kun": [
+   "はら"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K120",
+  "kanji": "言",
+  "significado": "Dizer; palavra",
+  "mundo": "Vida Cotidiana",
+  "fase": 12,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "ゲン",
+   "ゴン"
+  ],
+  "kun": [
+   "い.う",
+   "こと"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K121",
+  "kanji": "古",
+  "significado": "Antigo",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "ふる",
+  "romaji": "FURU",
+  "on": [
+   "コ"
+  ],
+  "kun": [
+   "-ふる.す",
+   "ふる-",
+   "ふる.い"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K122",
+  "kanji": "戸",
+  "significado": "Porta; residência",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "と",
+  "romaji": "TO",
+  "on": [
+   "コ"
+  ],
+  "kun": [
+   "と"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K123",
+  "kanji": "午",
+  "significado": "Meio-dia",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "うま",
+  "romaji": "UMA",
+  "on": [
+   "ゴ"
+  ],
+  "kun": [
+   "うま"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K124",
+  "kanji": "後",
+  "significado": "Depois; atrás",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "あと",
+  "romaji": "ATO",
+  "on": [
+   "コウ",
+   "ゴ"
+  ],
+  "kun": [
+   "あと",
+   "うし.ろ",
+   "うしろ",
+   "おく.れる",
+   "のち"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K125",
+  "kanji": "語",
+  "significado": "Língua; palavra",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "かた",
+  "romaji": "KATA",
+  "on": [
+   "ゴ"
+  ],
+  "kun": [
+   "かた.らう",
+   "かた.る"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K126",
+  "kanji": "交",
+  "significado": "Cruzar; conviver",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "か",
+  "romaji": "KA",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "-か.う",
+   "か.わす",
+   "かわ.す",
+   "こもごも",
+   "ま.ざる",
+   "ま.じる",
+   "ま.ぜる",
+   "まじ.える",
+   "まじ.る",
+   "まじ.わる"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K127",
+  "kanji": "光",
+  "significado": "Luz",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "ひか",
+  "romaji": "HIKA",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "ひか.る",
+   "ひかり"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K128",
+  "kanji": "公",
+  "significado": "Público",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "おおやけ",
+  "romaji": "OOYAKE",
+  "on": [
+   "ク",
+   "コウ"
+  ],
+  "kun": [
+   "おおやけ"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K129",
+  "kanji": "工",
+  "significado": "Construção; ofício",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "く",
+  "romaji": "KU",
+  "on": [
+   "ク",
+   "グ",
+   "コウ"
+  ],
+  "kun": [],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K130",
+  "kanji": "広",
+  "significado": "Amplo",
+  "mundo": "Vida Cotidiana",
+  "fase": 13,
+  "hiragana": "ひろ",
+  "romaji": "HIRO",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "ひろ.い",
+   "ひろ.がる",
+   "ひろ.げる",
+   "ひろ.まる",
+   "ひろ.める"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K131",
+  "kanji": "考",
+  "significado": "Pensar",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "かんが",
+  "romaji": "KANGA",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "かんが.え",
+   "かんが.える"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K132",
+  "kanji": "行",
+  "significado": "Ir; realizar",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "アン",
+   "ギョウ",
+   "コウ"
+  ],
+  "kun": [
+   "-い.き",
+   "-いき",
+   "-ゆ.き",
+   "-ゆき",
+   "い.く",
+   "おこ.なう",
+   "おこな.う",
+   "ゆ.く"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K133",
+  "kanji": "高",
+  "significado": "Alto; caro",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "たか",
+  "romaji": "TAKA",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "-だか",
+   "たか",
+   "たか.い",
+   "たか.まる",
+   "たか.める"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K134",
+  "kanji": "合",
+  "significado": "Unir; combinar",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "カッ",
+   "ガッ",
+   "ゴウ"
+  ],
+  "kun": [
+   "-あ.い",
+   "-あ.う",
+   "-あ.わせる",
+   "-あい",
+   "あ.い",
+   "あ.う",
+   "あ.わす",
+   "あ.わせる",
+   "あい-"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K135",
+  "kanji": "国",
+  "significado": "País",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "くに",
+  "romaji": "KUNI",
+  "on": [
+   "コク"
+  ],
+  "kun": [
+   "くに"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K136",
+  "kanji": "黒",
+  "significado": "Preto",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "くろ",
+  "romaji": "KURO",
+  "on": [
+   "コク"
+  ],
+  "kun": [
+   "くろ",
+   "くろ.い",
+   "くろ.ずむ"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K137",
+  "kanji": "今",
+  "significado": "Agora",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "いま",
+  "romaji": "IMA",
+  "on": [
+   "キン",
+   "コン"
+  ],
+  "kun": [
+   "いま"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K138",
+  "kanji": "才",
+  "significado": "Talento; anos de idade",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "さい",
+  "romaji": "SAI",
+  "on": [
+   "サイ"
+  ],
+  "kun": [],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K139",
+  "kanji": "細",
+  "significado": "Fino; detalhado",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "こま",
+  "romaji": "KOMA",
+  "on": [
+   "サイ"
+  ],
+  "kun": [
+   "こま.か",
+   "こま.かい",
+   "ほそ.い",
+   "ほそ.る"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K140",
+  "kanji": "作",
+  "significado": "Fazer; criar",
+  "mundo": "Vida Cotidiana",
+  "fase": 14,
+  "hiragana": "つく",
+  "romaji": "TSUKU",
+  "on": [
+   "サ",
+   "サク"
+  ],
+  "kun": [
+   "-づく.り",
+   "つく.り",
+   "つく.る"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K141",
+  "kanji": "算",
+  "significado": "Calcular",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "そろ",
+  "romaji": "SORO",
+  "on": [
+   "サン"
+  ],
+  "kun": [
+   "そろ"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K142",
+  "kanji": "姉",
+  "significado": "Irmã mais velha",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "あね",
+  "romaji": "ANE",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "あね",
+   "はは"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K143",
+  "kanji": "市",
+  "significado": "Cidade; mercado",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "いち",
+  "romaji": "ICHI",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "いち"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K144",
+  "kanji": "思",
+  "significado": "Pensar; sentir",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "おぼ",
+  "romaji": "OBO",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "おぼ.す",
+   "おも.う",
+   "おもえら.く"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K145",
+  "kanji": "止",
+  "significado": "Parar",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "と",
+  "romaji": "TO",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "-さ.し",
+   "-さ.す",
+   "-と.める",
+   "-ど.まり",
+   "-ど.め",
+   "-や.む",
+   "と.まる",
+   "と.める",
+   "とど.まる",
+   "とど.め",
+   "とど.める",
+   "や.む",
+   "や.める",
+   "よ.す"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K146",
+  "kanji": "紙",
+  "significado": "Papel",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "かみ",
+  "romaji": "KAMI",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "かみ"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K147",
+  "kanji": "寺",
+  "significado": "Templo budista",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "てら",
+  "romaji": "TERA",
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "てら"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K148",
+  "kanji": "時",
+  "significado": "Tempo; hora",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "とき",
+  "romaji": "TOKI",
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "-どき",
+   "とき"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K149",
+  "kanji": "自",
+  "significado": "Si mesmo",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "おの",
+  "romaji": "ONO",
+  "on": [
+   "シ",
+   "ジ"
+  ],
+  "kun": [
+   "おの.ずから",
+   "おの.ずと",
+   "みずか.ら"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K150",
+  "kanji": "室",
+  "significado": "Sala",
+  "mundo": "Vida Cotidiana",
+  "fase": 15,
+  "hiragana": "むろ",
+  "romaji": "MURO",
+  "on": [
+   "シツ"
+  ],
+  "kun": [
+   "むろ"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K151",
+  "kanji": "社",
+  "significado": "Empresa; santuário",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "やしろ",
+  "romaji": "YASHIRO",
+  "on": [
+   "シャ"
+  ],
+  "kun": [
+   "やしろ"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K152",
+  "kanji": "弱",
+  "significado": "Fraco",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "よわ",
+  "romaji": "YOWA",
+  "on": [
+   "ジャク"
+  ],
+  "kun": [
+   "よわ.い",
+   "よわ.まる",
+   "よわ.める",
+   "よわ.る"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K153",
+  "kanji": "首",
+  "significado": "Pescoço; cabeça",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "くび",
+  "romaji": "KUBI",
+  "on": [
+   "シュ"
+  ],
+  "kun": [
+   "くび"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K154",
+  "kanji": "秋",
+  "significado": "Outono",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "あき",
+  "romaji": "AKI",
+  "on": [
+   "シュウ"
+  ],
+  "kun": [
+   "あき",
+   "とき"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K155",
+  "kanji": "週",
+  "significado": "Semana",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "しゅう",
+  "romaji": "SHUU",
+  "on": [
+   "シュウ"
+  ],
+  "kun": [],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K156",
+  "kanji": "春",
+  "significado": "Primavera",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "はる",
+  "romaji": "HARU",
+  "on": [
+   "シュン"
+  ],
+  "kun": [
+   "はる"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K157",
+  "kanji": "書",
+  "significado": "Escrever; livro",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "か",
+  "romaji": "KA",
+  "on": [
+   "ショ"
+  ],
+  "kun": [
+   "-が.き",
+   "-がき",
+   "か.く"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K158",
+  "kanji": "少",
+  "significado": "Pouco",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "すく",
+  "romaji": "SUKU",
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "すく.ない",
+   "すこ.し"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K159",
+  "kanji": "場",
+  "significado": "Lugar",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "ば",
+  "romaji": "BA",
+  "on": [
+   "ジョウ",
+   "チョウ"
+  ],
+  "kun": [
+   "ば"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K160",
+  "kanji": "色",
+  "significado": "Cor",
+  "mundo": "Movimento e Ações",
+  "fase": 16,
+  "hiragana": "いろ",
+  "romaji": "IRO",
+  "on": [
+   "シキ",
+   "ショク"
+  ],
+  "kun": [
+   "いろ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K161",
+  "kanji": "食",
+  "significado": "Comer; alimento",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "く",
+  "romaji": "KU",
+  "on": [
+   "ショク",
+   "ジキ"
+  ],
+  "kun": [
+   "く.う",
+   "く.らう",
+   "た.べる",
+   "は.む"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K162",
+  "kanji": "心",
+  "significado": "Coração; mente",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "こころ",
+  "romaji": "KOKORO",
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "-ごころ",
+   "こころ"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K163",
+  "kanji": "新",
+  "significado": "Novo",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "あたら",
+  "romaji": "ATARA",
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "あたら.しい",
+   "あら-",
+   "あら.た",
+   "にい-"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K164",
+  "kanji": "親",
+  "significado": "Pai/mãe; próximo",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "おや",
+  "romaji": "OYA",
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "おや",
+   "おや-",
+   "した.しい",
+   "した.しむ"
+  ],
+  "tracos": 16,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K165",
+  "kanji": "図",
+  "significado": "Mapa; desenho",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "え",
+  "romaji": "E",
+  "on": [
+   "ズ",
+   "ト"
+  ],
+  "kun": [
+   "え",
+   "はか.る"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K166",
+  "kanji": "数",
+  "significado": "Número; contar",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "かず",
+  "romaji": "KAZU",
+  "on": [
+   "サク",
+   "シュ",
+   "ス",
+   "スウ",
+   "ソク"
+  ],
+  "kun": [
+   "かず",
+   "かぞ.える",
+   "しばしば",
+   "せ.める",
+   "わずらわ.しい"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K167",
+  "kanji": "星",
+  "significado": "Estrela",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "ほし",
+  "romaji": "HOSHI",
+  "on": [
+   "ショウ",
+   "セイ"
+  ],
+  "kun": [
+   "-ぼし",
+   "ほし"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K168",
+  "kanji": "晴",
+  "significado": "Tempo aberto",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "は",
+  "romaji": "HA",
+  "on": [
+   "セイ"
+  ],
+  "kun": [
+   "-ば.れ",
+   "は.らす",
+   "は.れ",
+   "は.れ-",
+   "は.れる"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K169",
+  "kanji": "声",
+  "significado": "Voz",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "こえ",
+  "romaji": "KOE",
+  "on": [
+   "ショウ",
+   "セイ"
+  ],
+  "kun": [
+   "こえ",
+   "こわ-"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K170",
+  "kanji": "西",
+  "significado": "Oeste",
+  "mundo": "Movimento e Ações",
+  "fase": 17,
+  "hiragana": "にし",
+  "romaji": "NISHI",
+  "on": [
+   "サイ",
+   "ス",
+   "セイ"
+  ],
+  "kun": [
+   "にし"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K171",
+  "kanji": "切",
+  "significado": "Cortar",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "サイ",
+   "セツ"
+  ],
+  "kun": [
+   "-き.り",
+   "-き.る",
+   "-き.れ",
+   "-き.れる",
+   "-ぎ.り",
+   "-ぎ.れ",
+   "き.り",
+   "き.る",
+   "き.れ",
+   "き.れる"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K172",
+  "kanji": "雪",
+  "significado": "Neve",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "ゆき",
+  "romaji": "YUKI",
+  "on": [
+   "セツ"
+  ],
+  "kun": [
+   "ゆき"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K173",
+  "kanji": "線",
+  "significado": "Linha",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "すじ",
+  "romaji": "SUJI",
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "すじ"
+  ],
+  "tracos": 15,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K174",
+  "kanji": "船",
+  "significado": "Navio; barco",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "ふね",
+  "romaji": "FUNE",
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "ふな-",
+   "ふね"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K175",
+  "kanji": "前",
+  "significado": "Antes; frente",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "まえ",
+  "romaji": "MAE",
+  "on": [
+   "ゼン"
+  ],
+  "kun": [
+   "-まえ",
+   "まえ"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K176",
+  "kanji": "組",
+  "significado": "Grupo; montar",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "く",
+  "romaji": "KU",
+  "on": [
+   "ソ"
+  ],
+  "kun": [
+   "-ぐみ",
+   "く.む",
+   "くみ"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K177",
+  "kanji": "走",
+  "significado": "Correr",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "はし",
+  "romaji": "HASHI",
+  "on": [
+   "ソウ"
+  ],
+  "kun": [
+   "はし.る"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K178",
+  "kanji": "多",
+  "significado": "Muitos",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "おお",
+  "romaji": "OO",
+  "on": [
+   "タ"
+  ],
+  "kun": [
+   "おお.い",
+   "まさ.に",
+   "まさ.る"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K179",
+  "kanji": "太",
+  "significado": "Grosso; grande",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "ふと",
+  "romaji": "FUTO",
+  "on": [
+   "タ",
+   "タイ"
+  ],
+  "kun": [
+   "ふと.い",
+   "ふと.る"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K180",
+  "kanji": "体",
+  "significado": "Corpo",
+  "mundo": "Movimento e Ações",
+  "fase": 18,
+  "hiragana": "かたち",
+  "romaji": "KATACHI",
+  "on": [
+   "タイ",
+   "テイ"
+  ],
+  "kun": [
+   "かたち",
+   "からだ"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K181",
+  "kanji": "台",
+  "significado": "Plataforma; base",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "うてな",
+  "romaji": "UTENA",
+  "on": [
+   "タイ",
+   "ダイ"
+  ],
+  "kun": [
+   "うてな",
+   "つかさ",
+   "われ"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K182",
+  "kanji": "谷",
+  "significado": "Vale",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "きわ",
+  "romaji": "KIWA",
+  "on": [
+   "コク"
+  ],
+  "kun": [
+   "きわ.まる",
+   "たに"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K183",
+  "kanji": "知",
+  "significado": "Saber",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "し",
+  "romaji": "SHI",
+  "on": [
+   "チ"
+  ],
+  "kun": [
+   "し.らせる",
+   "し.る"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K184",
+  "kanji": "地",
+  "significado": "Terra; área",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "じ",
+  "romaji": "JI",
+  "on": [
+   "ジ",
+   "チ"
+  ],
+  "kun": [],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K185",
+  "kanji": "池",
+  "significado": "Lagoa",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "いけ",
+  "romaji": "IKE",
+  "on": [
+   "チ"
+  ],
+  "kun": [
+   "いけ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K186",
+  "kanji": "茶",
+  "significado": "Chá",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "さ",
+  "romaji": "SA",
+  "on": [
+   "サ",
+   "チャ"
+  ],
+  "kun": [],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K187",
+  "kanji": "昼",
+  "significado": "Dia; meio-dia",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "ひる",
+  "romaji": "HIRU",
+  "on": [
+   "チュウ"
+  ],
+  "kun": [
+   "ひる"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K188",
+  "kanji": "朝",
+  "significado": "Manhã",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "あさ",
+  "romaji": "ASA",
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "あさ"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K189",
+  "kanji": "長",
+  "significado": "Longo; chefe",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "おさ",
+  "romaji": "OSA",
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "おさ",
+   "なが.い"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K190",
+  "kanji": "鳥",
+  "significado": "Pássaro",
+  "mundo": "Movimento e Ações",
+  "fase": 19,
+  "hiragana": "とり",
+  "romaji": "TORI",
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "とり"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K191",
+  "kanji": "直",
+  "significado": "Direto; corrigir",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "す",
+  "romaji": "SU",
+  "on": [
+   "ジカ",
+   "ジキ",
+   "チョク"
+  ],
+  "kun": [
+   "-なお.す",
+   "す.ぐ",
+   "ただ.ちに",
+   "なお.き",
+   "なお.す",
+   "なお.る"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K192",
+  "kanji": "通",
+  "significado": "Passar; trânsito",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "かよ",
+  "romaji": "KAYO",
+  "on": [
+   "ツ",
+   "ツウ"
+  ],
+  "kun": [
+   "-とお.り",
+   "-どお.し",
+   "-どお.り",
+   "かよ.う",
+   "とお.し",
+   "とお.す",
+   "とお.り",
+   "とお.る"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K193",
+  "kanji": "弟",
+  "significado": "Irmão mais novo",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "おとうと",
+  "romaji": "OTOUTO",
+  "on": [
+   "ダイ",
+   "テイ",
+   "デ"
+  ],
+  "kun": [
+   "おとうと"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K194",
+  "kanji": "店",
+  "significado": "Loja",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "たな",
+  "romaji": "TANA",
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "たな",
+   "みせ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K195",
+  "kanji": "点",
+  "significado": "Ponto",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "さ",
+  "romaji": "SA",
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "さ.す",
+   "た.てる",
+   "つ.く",
+   "つ.ける",
+   "とぼ.す",
+   "とも.す",
+   "ぼち"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K196",
+  "kanji": "電",
+  "significado": "Eletricidade",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "でん",
+  "romaji": "DEN",
+  "on": [
+   "デン"
+  ],
+  "kun": [],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K197",
+  "kanji": "冬",
+  "significado": "Inverno",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "ふゆ",
+  "romaji": "FUYU",
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "ふゆ"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K198",
+  "kanji": "刀",
+  "significado": "Espada",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "かたな",
+  "romaji": "KATANA",
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "かたな",
+   "そり"
+  ],
+  "tracos": 2,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K199",
+  "kanji": "東",
+  "significado": "Leste",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "ひがし",
+  "romaji": "HIGASHI",
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "ひがし"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K200",
+  "kanji": "当",
+  "significado": "Acertar; correspondente",
+  "mundo": "Movimento e Ações",
+  "fase": 20,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "あ.たり",
+   "あ.たる",
+   "あ.て",
+   "あ.てる",
+   "まさ.に",
+   "まさ.にべし"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K201",
+  "kanji": "答",
+  "significado": "Resposta",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "こた",
+  "romaji": "KOTA",
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "こた.え",
+   "こた.える"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K202",
+  "kanji": "頭",
+  "significado": "Cabeça",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "あたま",
+  "romaji": "ATAMA",
+  "on": [
+   "ズ",
+   "ト",
+   "トウ"
+  ],
+  "kun": [
+   "-がしら",
+   "あたま",
+   "かしら",
+   "かぶり"
+  ],
+  "tracos": 16,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K203",
+  "kanji": "同",
+  "significado": "Mesmo",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "おな",
+  "romaji": "ONA",
+  "on": [
+   "ドウ"
+  ],
+  "kun": [
+   "おな.じ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K204",
+  "kanji": "道",
+  "significado": "Caminho",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "いう",
+  "romaji": "IU",
+  "on": [
+   "トウ",
+   "ドウ"
+  ],
+  "kun": [
+   "いう",
+   "みち"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K205",
+  "kanji": "読",
+  "significado": "Ler",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "よ",
+  "romaji": "YO",
+  "on": [
+   "トウ",
+   "トク",
+   "ドク"
+  ],
+  "kun": [
+   "-よ.み",
+   "よ.む"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K206",
+  "kanji": "内",
+  "significado": "Dentro",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "うち",
+  "romaji": "UCHI",
+  "on": [
+   "ダイ",
+   "ナイ"
+  ],
+  "kun": [
+   "うち"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K207",
+  "kanji": "南",
+  "significado": "Sul",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "みなみ",
+  "romaji": "MINAMI",
+  "on": [
+   "ナ",
+   "ナン"
+  ],
+  "kun": [
+   "みなみ"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K208",
+  "kanji": "肉",
+  "significado": "Carne",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "しし",
+  "romaji": "SHISHI",
+  "on": [
+   "ニク"
+  ],
+  "kun": [
+   "しし"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K209",
+  "kanji": "馬",
+  "significado": "Cavalo",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "うま",
+  "romaji": "UMA",
+  "on": [
+   "バ"
+  ],
+  "kun": [
+   "うま",
+   "うま-",
+   "ま"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K210",
+  "kanji": "買",
+  "significado": "Comprar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 21,
+  "hiragana": "か",
+  "romaji": "KA",
+  "on": [
+   "バイ"
+  ],
+  "kun": [
+   "か.う"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K211",
+  "kanji": "売",
+  "significado": "Vender",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "う",
+  "romaji": "U",
+  "on": [
+   "バイ"
+  ],
+  "kun": [
+   "う.る",
+   "う.れる"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K212",
+  "kanji": "麦",
+  "significado": "Trigo; cevada",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "むぎ",
+  "romaji": "MUGI",
+  "on": [
+   "バク"
+  ],
+  "kun": [
+   "むぎ"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K213",
+  "kanji": "半",
+  "significado": "Metade",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "なか",
+  "romaji": "NAKA",
+  "on": [
+   "ハン"
+  ],
+  "kun": [
+   "なか.ば"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K214",
+  "kanji": "番",
+  "significado": "Número; turno",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "つが",
+  "romaji": "TSUGA",
+  "on": [
+   "バン"
+  ],
+  "kun": [
+   "つが.い"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K215",
+  "kanji": "父",
+  "significado": "Pai",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "ちち",
+  "romaji": "CHICHI",
+  "on": [
+   "フ"
+  ],
+  "kun": [
+   "ちち"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K216",
+  "kanji": "風",
+  "significado": "Vento",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "かぜ",
+  "romaji": "KAZE",
+  "on": [
+   "フ",
+   "フウ"
+  ],
+  "kun": [
+   "かざ-",
+   "かぜ"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K217",
+  "kanji": "聞",
+  "significado": "Ouvir; perguntar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "ブン",
+   "モン"
+  ],
+  "kun": [
+   "き.く",
+   "き.こえる"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K218",
+  "kanji": "米",
+  "significado": "Arroz",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "こめ",
+  "romaji": "KOME",
+  "on": [
+   "ベイ",
+   "マイ",
+   "メエトル"
+  ],
+  "kun": [
+   "こめ",
+   "よね"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K219",
+  "kanji": "歩",
+  "significado": "Andar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "あゆ",
+  "romaji": "AYU",
+  "on": [
+   "フ",
+   "ブ",
+   "ホ"
+  ],
+  "kun": [
+   "あゆ.む",
+   "ある.く"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K220",
+  "kanji": "母",
+  "significado": "Mãe",
+  "mundo": "Calendário e Sociedade",
+  "fase": 22,
+  "hiragana": "はは",
+  "romaji": "HAHA",
+  "on": [
+   "ボ"
+  ],
+  "kun": [
+   "はは",
+   "も"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K221",
+  "kanji": "方",
+  "significado": "Direção; pessoa",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "かた",
+  "romaji": "KATA",
+  "on": [
+   "ホウ"
+  ],
+  "kun": [
+   "-かた",
+   "-がた",
+   "かた"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K222",
+  "kanji": "北",
+  "significado": "Norte",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "きた",
+  "romaji": "KITA",
+  "on": [
+   "ホク"
+  ],
+  "kun": [
+   "きた"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K223",
+  "kanji": "妹",
+  "significado": "Irmã mais nova",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "いもうと",
+  "romaji": "IMOUTO",
+  "on": [
+   "マイ"
+  ],
+  "kun": [
+   "いもうと"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K224",
+  "kanji": "毎",
+  "significado": "Cada",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "ごと",
+  "romaji": "GOTO",
+  "on": [
+   "マイ"
+  ],
+  "kun": [
+   "-ごと.に",
+   "ごと"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K225",
+  "kanji": "万",
+  "significado": "Dez mil",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "よろず",
+  "romaji": "YOROZU",
+  "on": [
+   "バン",
+   "マン"
+  ],
+  "kun": [
+   "よろず"
+  ],
+  "tracos": 3,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K226",
+  "kanji": "明",
+  "significado": "Claro; brilhante",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "ミョウ",
+   "ミン",
+   "メイ"
+  ],
+  "kun": [
+   "-あ.け",
+   "あ.かす",
+   "あ.かり",
+   "あ.く",
+   "あ.くる",
+   "あ.ける",
+   "あか.らむ",
+   "あか.るい",
+   "あか.るむ",
+   "あき.らか"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K227",
+  "kanji": "鳴",
+  "significado": "Soar; cantar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "な",
+  "romaji": "NA",
+  "on": [
+   "メイ"
+  ],
+  "kun": [
+   "な.く",
+   "な.らす",
+   "な.る"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K228",
+  "kanji": "毛",
+  "significado": "Pelo",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "け",
+  "romaji": "KE",
+  "on": [
+   "モウ"
+  ],
+  "kun": [
+   "け"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K229",
+  "kanji": "門",
+  "significado": "Portão",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "かど",
+  "romaji": "KADO",
+  "on": [
+   "モン"
+  ],
+  "kun": [
+   "かど",
+   "と"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K230",
+  "kanji": "夜",
+  "significado": "Noite",
+  "mundo": "Calendário e Sociedade",
+  "fase": 23,
+  "hiragana": "よ",
+  "romaji": "YO",
+  "on": [
+   "ヤ"
+  ],
+  "kun": [
+   "よ",
+   "よる"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K231",
+  "kanji": "野",
+  "significado": "Campo",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "の",
+  "romaji": "NO",
+  "on": [
+   "ショ",
+   "ヤ"
+  ],
+  "kun": [
+   "の",
+   "の-"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K232",
+  "kanji": "矢",
+  "significado": "Flecha",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "や",
+  "romaji": "YA",
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "や"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K233",
+  "kanji": "友",
+  "significado": "Amigo",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "とも",
+  "romaji": "TOMO",
+  "on": [
+   "ユウ"
+  ],
+  "kun": [
+   "とも"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K234",
+  "kanji": "曜",
+  "significado": "Dia da semana",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "よう",
+  "romaji": "YOU",
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [],
+  "tracos": 18,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K235",
+  "kanji": "用",
+  "significado": "Usar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "もち",
+  "romaji": "MOCHI",
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [
+   "もち.いる"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K236",
+  "kanji": "来",
+  "significado": "Vir",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "タイ",
+   "ライ"
+  ],
+  "kun": [
+   "き",
+   "き.たす",
+   "き.たる",
+   "きた.す",
+   "きた.る",
+   "く.る",
+   "こ"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K237",
+  "kanji": "理",
+  "significado": "Razão; lógica",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "ことわり",
+  "romaji": "KOTOWARI",
+  "on": [
+   "リ"
+  ],
+  "kun": [
+   "ことわり"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K238",
+  "kanji": "話",
+  "significado": "Falar; história",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "はな",
+  "romaji": "HANA",
+  "on": [
+   "ワ"
+  ],
+  "kun": [
+   "はな.す",
+   "はなし"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K239",
+  "kanji": "悪",
+  "significado": "Ruim; mal",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "アク",
+   "オ"
+  ],
+  "kun": [
+   "-にく.い",
+   "あ.し",
+   "ああ",
+   "いずくに",
+   "いずくんぞ",
+   "にく.い",
+   "にく.む",
+   "わる-",
+   "わる.い"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K240",
+  "kanji": "安",
+  "significado": "Barato; tranquilo",
+  "mundo": "Calendário e Sociedade",
+  "fase": 24,
+  "hiragana": "やす",
+  "romaji": "YASU",
+  "on": [
+   "アン"
+  ],
+  "kun": [
+   "やす",
+   "やす.い",
+   "やす.まる",
+   "やす.らか"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K241",
+  "kanji": "暗",
+  "significado": "Escuro",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "くら",
+  "romaji": "KURA",
+  "on": [
+   "アン"
+  ],
+  "kun": [
+   "くら.い",
+   "くら.む",
+   "くれ.る"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K242",
+  "kanji": "委",
+  "significado": "Confiar; comissão",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "ゆだ",
+  "romaji": "YUDA",
+  "on": [
+   "イ"
+  ],
+  "kun": [
+   "ゆだ.ねる"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K243",
+  "kanji": "意",
+  "significado": "Ideia; intenção",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "イ"
+  ],
+  "kun": [],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K244",
+  "kanji": "医",
+  "significado": "Medicina; médico",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "い",
+  "romaji": "I",
+  "on": [
+   "イ"
+  ],
+  "kun": [
+   "い.する",
+   "い.やす",
+   "くすし"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K245",
+  "kanji": "育",
+  "significado": "Criar; educar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "そだ",
+  "romaji": "SODA",
+  "on": [
+   "イク"
+  ],
+  "kun": [
+   "そだ.ち",
+   "そだ.つ",
+   "そだ.てる",
+   "はぐく.む"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K246",
+  "kanji": "員",
+  "significado": "Membro; funcionário",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "いん",
+  "romaji": "IN",
+  "on": [
+   "イン"
+  ],
+  "kun": [],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K247",
+  "kanji": "飲",
+  "significado": "Beber",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "の",
+  "romaji": "NO",
+  "on": [
+   "イン",
+   "オン"
+  ],
+  "kun": [
+   "-の.み",
+   "の.む"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K248",
+  "kanji": "院",
+  "significado": "Instituição",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "いん",
+  "romaji": "IN",
+  "on": [
+   "イン"
+  ],
+  "kun": [],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K249",
+  "kanji": "運",
+  "significado": "Transportar; sorte",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "はこ",
+  "romaji": "HAKO",
+  "on": [
+   "ウン"
+  ],
+  "kun": [
+   "はこ.ぶ"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K250",
+  "kanji": "泳",
+  "significado": "Nadar",
+  "mundo": "Calendário e Sociedade",
+  "fase": 25,
+  "hiragana": "およ",
+  "romaji": "OYO",
+  "on": [
+   "エイ"
+  ],
+  "kun": [
+   "およ.ぐ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K251",
+  "kanji": "駅",
+  "significado": "Estação",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "えき",
+  "romaji": "EKI",
+  "on": [
+   "エキ"
+  ],
+  "kun": [],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K252",
+  "kanji": "央",
+  "significado": "Centro",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "おう",
+  "romaji": "OU",
+  "on": [
+   "オウ"
+  ],
+  "kun": [],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K253",
+  "kanji": "横",
+  "significado": "Lado; horizontal",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "よこ",
+  "romaji": "YOKO",
+  "on": [
+   "オウ"
+  ],
+  "kun": [
+   "よこ"
+  ],
+  "tracos": 15,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K254",
+  "kanji": "屋",
+  "significado": "Casa; loja",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "や",
+  "romaji": "YA",
+  "on": [
+   "オク"
+  ],
+  "kun": [
+   "や"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K255",
+  "kanji": "温",
+  "significado": "Morno; temperatura",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "あたた",
+  "romaji": "ATATA",
+  "on": [
+   "オン"
+  ],
+  "kun": [
+   "あたた.か",
+   "あたた.かい",
+   "あたた.まる",
+   "あたた.める",
+   "ぬく"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K256",
+  "kanji": "化",
+  "significado": "Transformar",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "け",
+  "romaji": "KE",
+  "on": [
+   "カ",
+   "ケ"
+  ],
+  "kun": [
+   "け.する",
+   "ば.かす",
+   "ば.ける",
+   "ふ.ける"
+  ],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K257",
+  "kanji": "荷",
+  "significado": "Carga; bagagem",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "に",
+  "romaji": "NI",
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "に"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K258",
+  "kanji": "界",
+  "significado": "Mundo; limite",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "かい",
+  "romaji": "KAI",
+  "on": [
+   "カイ"
+  ],
+  "kun": [],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K259",
+  "kanji": "開",
+  "significado": "Abrir",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "あ",
+  "romaji": "A",
+  "on": [
+   "カイ"
+  ],
+  "kun": [
+   "-びら.き",
+   "あ.く",
+   "あ.ける",
+   "ひら.き",
+   "ひら.く",
+   "ひら.ける"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K260",
+  "kanji": "階",
+  "significado": "Andar; escada",
+  "mundo": "Consolidação",
+  "fase": 26,
+  "hiragana": "きざはし",
+  "romaji": "KIZAHASHI",
+  "on": [
+   "カイ"
+  ],
+  "kun": [
+   "きざはし"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K261",
+  "kanji": "寒",
+  "significado": "Frio",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "さむ",
+  "romaji": "SAMU",
+  "on": [
+   "カン"
+  ],
+  "kun": [
+   "さむ.い"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K262",
+  "kanji": "感",
+  "significado": "Sentimento",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "かん",
+  "romaji": "KAN",
+  "on": [
+   "カン"
+  ],
+  "kun": [],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K263",
+  "kanji": "漢",
+  "significado": "China; chinês",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "かん",
+  "romaji": "KAN",
+  "on": [
+   "カン"
+  ],
+  "kun": [],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K264",
+  "kanji": "館",
+  "significado": "Edifício; salão",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "たて",
+  "romaji": "TATE",
+  "on": [
+   "カン"
+  ],
+  "kun": [
+   "たて",
+   "やかた"
+  ],
+  "tracos": 16,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K265",
+  "kanji": "岸",
+  "significado": "Margem; costa",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "きし",
+  "romaji": "KISHI",
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "きし"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K266",
+  "kanji": "期",
+  "significado": "Período",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "キ",
+   "ゴ"
+  ],
+  "kun": [],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K267",
+  "kanji": "起",
+  "significado": "Levantar; começar",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "お",
+  "romaji": "O",
+  "on": [
+   "キ"
+  ],
+  "kun": [
+   "お.きる",
+   "お.こす",
+   "お.こる",
+   "おこ.す",
+   "た.つ"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K268",
+  "kanji": "客",
+  "significado": "Visitante; cliente",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "かく",
+  "romaji": "KAKU",
+  "on": [
+   "カク",
+   "キャク"
+  ],
+  "kun": [],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K269",
+  "kanji": "宮",
+  "significado": "Palácio; santuário",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "みや",
+  "romaji": "MIYA",
+  "on": [
+   "キュウ",
+   "ク",
+   "クウ",
+   "グウ"
+  ],
+  "kun": [
+   "みや"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K270",
+  "kanji": "急",
+  "significado": "Urgente; apressar",
+  "mundo": "Consolidação",
+  "fase": 27,
+  "hiragana": "いそ",
+  "romaji": "ISO",
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "いそ.ぎ",
+   "いそ.ぐ",
+   "せ.く"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K271",
+  "kanji": "球",
+  "significado": "Bola; esfera",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "たま",
+  "romaji": "TAMA",
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "たま"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K272",
+  "kanji": "究",
+  "significado": "Pesquisar",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "きわ",
+  "romaji": "KIWA",
+  "on": [
+   "キュウ",
+   "ク"
+  ],
+  "kun": [
+   "きわ.める"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K273",
+  "kanji": "級",
+  "significado": "Classe; nível",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "きゅう",
+  "romaji": "KYUU",
+  "on": [
+   "キュウ"
+  ],
+  "kun": [],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K274",
+  "kanji": "去",
+  "significado": "Passado; ir embora",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "さ",
+  "romaji": "SA",
+  "on": [
+   "キョ",
+   "コ"
+  ],
+  "kun": [
+   "-さ.る",
+   "さ.る"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K275",
+  "kanji": "橋",
+  "significado": "Ponte",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "はし",
+  "romaji": "HASHI",
+  "on": [
+   "キョウ"
+  ],
+  "kun": [
+   "はし"
+  ],
+  "tracos": 16,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K276",
+  "kanji": "業",
+  "significado": "Trabalho; indústria",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "わざ",
+  "romaji": "WAZA",
+  "on": [
+   "ギョウ",
+   "ゴウ"
+  ],
+  "kun": [
+   "わざ"
+  ],
+  "tracos": 13,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K277",
+  "kanji": "局",
+  "significado": "Departamento; estação",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "つぼね",
+  "romaji": "TSUBONE",
+  "on": [
+   "キョク"
+  ],
+  "kun": [
+   "つぼね"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K278",
+  "kanji": "曲",
+  "significado": "Curva; música",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "くま",
+  "romaji": "KUMA",
+  "on": [
+   "キョク"
+  ],
+  "kun": [
+   "くま",
+   "ま.がる",
+   "ま.げる"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K279",
+  "kanji": "銀",
+  "significado": "Prata",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "しろがね",
+  "romaji": "SHIROGANE",
+  "on": [
+   "ギン"
+  ],
+  "kun": [
+   "しろがね"
+  ],
+  "tracos": 14,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K280",
+  "kanji": "区",
+  "significado": "Distrito",
+  "mundo": "Consolidação",
+  "fase": 28,
+  "hiragana": "おう",
+  "romaji": "OU",
+  "on": [
+   "オウ",
+   "ク",
+   "コウ"
+  ],
+  "kun": [],
+  "tracos": 4,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K281",
+  "kanji": "苦",
+  "significado": "Sofrimento; difícil",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "くる",
+  "romaji": "KURU",
+  "on": [
+   "ク"
+  ],
+  "kun": [
+   "-ぐる.しい",
+   "くる.しい",
+   "くる.しむ",
+   "くる.しめる",
+   "にが.い",
+   "にが.る"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K282",
+  "kanji": "具",
+  "significado": "Ferramenta",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "そな",
+  "romaji": "SONA",
+  "on": [
+   "グ"
+  ],
+  "kun": [
+   "そな.える",
+   "つぶさ.に"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K283",
+  "kanji": "君",
+  "significado": "Você; senhor",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "きみ",
+  "romaji": "KIMI",
+  "on": [
+   "クン"
+  ],
+  "kun": [
+   "-ぎみ",
+   "きみ"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K284",
+  "kanji": "係",
+  "significado": "Responsável; relação",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "かか",
+  "romaji": "KAKA",
+  "on": [
+   "ケイ"
+  ],
+  "kun": [
+   "-がかり",
+   "かか.る",
+   "かか.わる",
+   "かかり"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K285",
+  "kanji": "軽",
+  "significado": "Leve",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "かる",
+  "romaji": "KARU",
+  "on": [
+   "キョウ",
+   "キン",
+   "ケイ"
+  ],
+  "kun": [
+   "かる.い",
+   "かろ.やか",
+   "かろ.んじる"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K286",
+  "kanji": "決",
+  "significado": "Decidir",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "き",
+  "romaji": "KI",
+  "on": [
+   "ケツ"
+  ],
+  "kun": [
+   "-ぎ.め",
+   "き.まる",
+   "き.める",
+   "さ.く"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K287",
+  "kanji": "血",
+  "significado": "Sangue",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "ち",
+  "romaji": "CHI",
+  "on": [
+   "ケツ"
+  ],
+  "kun": [
+   "ち"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K288",
+  "kanji": "研",
+  "significado": "Estudar; polir",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "と",
+  "romaji": "TO",
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "と.ぐ"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K289",
+  "kanji": "県",
+  "significado": "Prefeitura",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "か",
+  "romaji": "KA",
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "か.ける"
+  ],
+  "tracos": 9,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K290",
+  "kanji": "庫",
+  "significado": "Depósito",
+  "mundo": "Consolidação",
+  "fase": 29,
+  "hiragana": "くら",
+  "romaji": "KURA",
+  "on": [
+   "ク",
+   "コ"
+  ],
+  "kun": [
+   "くら"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K291",
+  "kanji": "湖",
+  "significado": "Lago",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "みずうみ",
+  "romaji": "MIZUUMI",
+  "on": [
+   "コ"
+  ],
+  "kun": [
+   "みずうみ"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K292",
+  "kanji": "向",
+  "significado": "Direção; voltar-se",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "む",
+  "romaji": "MU",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "-む.き",
+   "-む.け",
+   "む.い",
+   "む.かい",
+   "む.かう",
+   "む.く",
+   "む.ける",
+   "む.こう",
+   "む.こう-",
+   "むか.い",
+   "むこ"
+  ],
+  "tracos": 6,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K293",
+  "kanji": "幸",
+  "significado": "Felicidade",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "さいわ",
+  "romaji": "SAIWA",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "さいわ.い",
+   "さち",
+   "しあわ.せ"
+  ],
+  "tracos": 8,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K294",
+  "kanji": "港",
+  "significado": "Porto",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "みなと",
+  "romaji": "MINATO",
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "みなと"
+  ],
+  "tracos": 12,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K295",
+  "kanji": "号",
+  "significado": "Número; título",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "さけ",
+  "romaji": "SAKE",
+  "on": [
+   "ゴウ"
+  ],
+  "kun": [
+   "さけ.ぶ",
+   "よびな"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K296",
+  "kanji": "根",
+  "significado": "Raiz",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "ね",
+  "romaji": "NE",
+  "on": [
+   "コン"
+  ],
+  "kun": [
+   "-ね",
+   "ね"
+  ],
+  "tracos": 10,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K297",
+  "kanji": "祭",
+  "significado": "Festival",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "まつ",
+  "romaji": "MATSU",
+  "on": [
+   "サイ"
+  ],
+  "kun": [
+   "まつ.り",
+   "まつ.る",
+   "まつり"
+  ],
+  "tracos": 11,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K298",
+  "kanji": "坂",
+  "significado": "Ladeira",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "さか",
+  "romaji": "SAKA",
+  "on": [
+   "ハン"
+  ],
+  "kun": [
+   "さか"
+  ],
+  "tracos": 7,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K299",
+  "kanji": "皿",
+  "significado": "Prato",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "さら",
+  "romaji": "SARA",
+  "on": [
+   "ベイ"
+  ],
+  "kun": [
+   "さら"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ },
+ {
+  "id": "K300",
+  "kanji": "仕",
+  "significado": "Servir; trabalhar",
+  "mundo": "Consolidação",
+  "fase": 30,
+  "hiragana": "つか",
+  "romaji": "TSUKA",
+  "on": [
+   "シ",
+   "ジ"
+  ],
+  "kun": [
+   "つか.える"
+  ],
+  "tracos": 5,
+  "needsReview": true,
+  "status": "Revisar leitura (auto)"
+ }
+]

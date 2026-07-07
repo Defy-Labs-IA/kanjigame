@@ -1,0 +1,4 @@
+# Dependencias dos scripts de conteudo do Kanji Memory Game
+openpyxl>=3.1      # leitura/escrita da planilha (obrigatorio)
+edge-tts>=7.0      # audio via Microsoft Edge (so para --engine edge)
+# gcloud / azure usam REST puro (urllib) -> nao exigem pacote extra, so as variaveis de ambiente
