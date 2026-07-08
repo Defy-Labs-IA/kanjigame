@@ -1,7 +1,8 @@
 import { createServerClient } from "@supabase/ssr";
 import { NextResponse, type NextRequest } from "next/server";
 
-// Protege /admin/* exigindo sessão Supabase. /admin/login e /admin/signup ficam liberados.
+// Exige login para JOGAR (/mapa, /jogar/*) e para o /admin/*.
+// Home (/) e /login ficam públicos. O papel admin é checado nas páginas /admin.
 export async function middleware(req: NextRequest) {
   const res = NextResponse.next({ request: req });
 
@@ -26,16 +27,15 @@ export async function middleware(req: NextRequest) {
     data: { user },
   } = await supabase.auth.getUser();
 
-  const { pathname } = req.nextUrl;
-  const paginaAuth =
-    pathname.startsWith("/admin/login") || pathname.startsWith("/admin/signup");
-
-  if (!user && !paginaAuth) {
+  if (!user) {
     const url = req.nextUrl.clone();
-    url.pathname = "/admin/login";
+    url.pathname = "/login";
+    url.searchParams.set("returnTo", req.nextUrl.pathname);
     return NextResponse.redirect(url);
   }
   return res;
 }
 
-export const config = { matcher: ["/admin/:path*"] };
+export const config = {
+  matcher: ["/mapa", "/jogar/:path*", "/admin/:path*"],
+};

@@ -16,14 +16,15 @@ export default function LoginPage() {
     e.preventDefault();
     setErro("");
     setCarregando(true);
-    const supabase = browserClient();
-    const { error } = await supabase.auth.signInWithPassword({ email, password: senha });
+    const { error } = await browserClient().auth.signInWithPassword({ email, password: senha });
     setCarregando(false);
     if (error) {
       setErro("E-mail ou senha inválidos.");
       return;
     }
-    router.push("/admin");
+    const params = new URLSearchParams(window.location.search);
+    const returnTo = params.get("returnTo") || "/mapa";
+    router.push(returnTo);
     router.refresh();
   }
 
@@ -31,7 +32,7 @@ export default function LoginPage() {
     <main className="wrap">
       <form className="login" onSubmit={entrar}>
         <div className="logo jp">漢字</div>
-        <h2>Painel do administrador</h2>
+        <h2>Entrar</h2>
         <input type="email" placeholder="E-mail" value={email} onChange={(e) => setEmail(e.target.value)} required autoFocus />
         <input type="password" placeholder="Senha" value={senha} onChange={(e) => setSenha(e.target.value)} required />
         <button className="btn" type="submit" style={{ width: "100%" }} disabled={carregando}>
@@ -39,7 +40,8 @@ export default function LoginPage() {
         </button>
         <div className="erro">{erro}</div>
         <div className="note" style={{ marginTop: 10 }}>
-          Acesso restrito. Peça a um administrador para criar sua conta.
+          Não tem conta? Peça a um administrador para criá-la. <br />
+          <Link href="/" style={{ color: "var(--turq)" }}>← Voltar ao início</Link>
         </div>
       </form>
     </main>

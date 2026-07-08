@@ -7,7 +7,7 @@ export default function BotaoSair() {
   const router = useRouter();
   async function sair() {
     await browserClient().auth.signOut();
-    router.push("/admin/login");
+    router.push("/login");
     router.refresh();
   }
   return (

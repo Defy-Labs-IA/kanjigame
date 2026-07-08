@@ -9,7 +9,7 @@ export const dynamic = "force-dynamic";
 
 export default async function ConfigPage() {
   const user = await usuarioAtual();
-  if (!user) redirect("/admin/login");
+  if (!user) redirect("/login");
   if (!ehAdmin(user)) redirect("/admin");
 
   return (
