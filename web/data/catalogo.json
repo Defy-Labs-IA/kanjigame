@@ -208,8 +208,8 @@
    "みぎ"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K012",
@@ -228,8 +228,8 @@
    "あめ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K013",
@@ -237,8 +237,8 @@
   "significado": "Círculo; iene",
   "mundo": "Primeiros Símbolos",
   "fase": 2,
-  "hiragana": "まど",
-  "romaji": "MADO",
+  "hiragana": "えん",
+  "romaji": "EN",
   "on": [
    "エン"
   ],
@@ -250,8 +250,8 @@
    "まろ.やか"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K014",
@@ -267,8 +267,8 @@
   ],
   "kun": [],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K015",
@@ -288,8 +288,8 @@
    "ね"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K016",
@@ -297,8 +297,8 @@
   "significado": "Abaixo; descer",
   "mundo": "Primeiros Símbolos",
   "fase": 2,
-  "hiragana": "お",
-  "romaji": "O",
+  "hiragana": "した",
+  "romaji": "SHITA",
   "on": [
    "カ",
    "ゲ"
@@ -318,8 +318,8 @@
    "もと"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K017",
@@ -338,8 +338,8 @@
    "ほ-"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K018",
@@ -357,8 +357,8 @@
    "はな"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K019",
@@ -375,8 +375,8 @@
    "かい"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K020",
@@ -384,8 +384,8 @@
   "significado": "Estudo; aprender",
   "mundo": "Primeiros Símbolos",
   "fase": 2,
-  "hiragana": "まな",
-  "romaji": "MANA",
+  "hiragana": "がく",
+  "romaji": "GAKU",
   "on": [
    "ガク"
   ],
@@ -393,8 +393,8 @@
    "まな.ぶ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K021",
@@ -412,8 +412,8 @@
    "き"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K022",
@@ -421,8 +421,8 @@
   "significado": "Descansar",
   "mundo": "Primeiros Símbolos",
   "fase": 3,
-  "hiragana": "やす",
-  "romaji": "YASU",
+  "hiragana": "やすむ",
+  "romaji": "YASUMU",
   "on": [
    "キュウ"
   ],
@@ -432,8 +432,8 @@
    "やす.める"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K023",
@@ -452,8 +452,8 @@
    "たま-"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K024",
@@ -474,8 +474,8 @@
    "かね"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K025",
@@ -483,8 +483,8 @@
   "significado": "Céu; vazio",
   "mundo": "Primeiros Símbolos",
   "fase": 3,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "そら",
+  "romaji": "SORA",
   "on": [
    "クウ"
   ],
@@ -499,8 +499,8 @@
    "むな.しい"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K026",
@@ -518,8 +518,8 @@
    "つき"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K027",
@@ -537,8 +537,8 @@
    "いぬ-"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K028",
@@ -546,8 +546,8 @@
   "significado": "Ver",
   "mundo": "Primeiros Símbolos",
   "fase": 3,
-  "hiragana": "み",
-  "romaji": "MI",
+  "hiragana": "みる",
+  "romaji": "MIRU",
   "on": [
    "ケン"
   ],
@@ -557,8 +557,8 @@
    "み.る"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K029",
@@ -576,8 +576,8 @@
    "くち"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K030",
@@ -585,16 +585,16 @@
   "significado": "Escola",
   "mundo": "Primeiros Símbolos",
   "fase": 3,
-  "hiragana": "きょう",
-  "romaji": "KYOU",
+  "hiragana": "こう",
+  "romaji": "KOU",
   "on": [
    "キョウ",
    "コウ"
   ],
   "kun": [],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K031",
@@ -612,8 +612,8 @@
    "ひだり"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K032",
@@ -631,8 +631,8 @@
    "やま"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K033",
@@ -653,8 +653,8 @@
    "ね"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K034",
@@ -671,8 +671,8 @@
    "いと"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K035",
@@ -680,8 +680,8 @@
   "significado": "Caractere; letra",
   "mundo": "Primeiros Símbolos",
   "fase": 4,
-  "hiragana": "あざ",
-  "romaji": "AZA",
+  "hiragana": "じ",
+  "romaji": "JI",
   "on": [
    "ジ"
   ],
@@ -691,8 +691,8 @@
    "あざな"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K036",
@@ -709,8 +709,8 @@
    "みみ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K037",
@@ -727,8 +727,8 @@
    "くるま"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K038",
@@ -749,8 +749,8 @@
    "て-"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K039",
@@ -758,8 +758,8 @@
   "significado": "Sair",
   "mundo": "Primeiros Símbolos",
   "fase": 4,
-  "hiragana": "い",
-  "romaji": "I",
+  "hiragana": "でる",
+  "romaji": "DERU",
   "on": [
    "シュツ",
    "スイ"
@@ -773,8 +773,8 @@
    "で.る"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K040",
@@ -794,8 +794,8 @@
    "め"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K041",
@@ -803,8 +803,8 @@
   "significado": "Pequeno",
   "mundo": "Primeiros Símbolos",
   "fase": 5,
-  "hiragana": "ちい",
-  "romaji": "CHII",
+  "hiragana": "ちいさい",
+  "romaji": "CHIISAI",
   "on": [
    "ショウ"
   ],
@@ -815,8 +815,8 @@
    "ちい.さい"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K042",
@@ -824,8 +824,8 @@
   "significado": "Acima; subir",
   "mundo": "Primeiros Símbolos",
   "fase": 5,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "うえ",
+  "romaji": "UE",
   "on": [
    "シャン",
    "ショウ",
@@ -849,8 +849,8 @@
    "のぼ.る"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K043",
@@ -867,8 +867,8 @@
    "もり"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K044",
@@ -888,8 +888,8 @@
    "ひと"
   ],
   "tracos": 2,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K045",
@@ -907,8 +907,8 @@
    "みず-"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K046",
@@ -916,8 +916,8 @@
   "significado": "Correto",
   "mundo": "Primeiros Símbolos",
   "fase": 5,
-  "hiragana": "ただ",
-  "romaji": "TADA",
+  "hiragana": "ただしい",
+  "romaji": "TADASHII",
   "on": [
    "ショウ",
    "セイ"
@@ -929,8 +929,8 @@
    "まさ.に"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K047",
@@ -938,8 +938,8 @@
   "significado": "Vida; nascer",
   "mundo": "Primeiros Símbolos",
   "fase": 5,
-  "hiragana": "い",
-  "romaji": "I",
+  "hiragana": "せい",
+  "romaji": "SEI",
   "on": [
    "ショウ",
    "セイ"
@@ -965,8 +965,8 @@
    "む.す"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K048",
@@ -986,8 +986,8 @@
    "あお.い"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K049",
@@ -1006,8 +1006,8 @@
    "いし"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K050",
@@ -1029,8 +1029,8 @@
    "あか.らめる"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K051",
