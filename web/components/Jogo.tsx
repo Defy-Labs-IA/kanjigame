@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Kanji } from "@/lib/catalogo";
 import ModoSwitch, { useModo } from "@/components/ModoSwitch";
+import SomSwitch, { useSom } from "@/components/SomSwitch";
 import PadDesenho from "@/components/PadDesenho";
 import { extrairRefStrokes, type Stroke } from "@/lib/tracado";
 
@@ -59,6 +60,7 @@ export default function Jogo({
   const [licao, setLicao] = useState<Kanji | null>(null);
   const [fim, setFim] = useState(false);
   const [modo] = useModo();
+  const [som] = useSom();
 
   const totalPares = kanjis.length;
   const paresFeitos = combinadas.size / 2;
@@ -84,8 +86,8 @@ export default function Jogo({
   function clicar(uid: string) {
     if (travado || licao) return;
     if (abertas.includes(uid) || combinadas.has(uid)) return;
-    // Modo fácil: emite o som da carta ao ser selecionada
-    if (modo === "facil") {
+    // Som ao virar carta (todos os modos, se o jogador deixou o som ligado)
+    if (som) {
       const carta = porUid.get(uid);
       if (carta) tocarKanji(carta.k.id);
     }
@@ -149,8 +151,9 @@ export default function Jogo({
 
   return (
     <div>
-      <div className="topbar">
+      <div className="topbar" style={{ gap: 10, flexWrap: "wrap" }}>
         <ModoSwitch />
+        <SomSwitch />
       </div>
       <h2 style={{ textAlign: "center", marginTop: 0 }}>{faseNome}</h2>
       <div className="hud">
@@ -192,7 +195,6 @@ export default function Jogo({
         <Microaula
           k={licao}
           onClose={concluirLicao}
-          autoAudio={modo !== "facil"}
           speedUp={modo !== "facil"}
           draw={modo === "superavancado"}
         />
@@ -204,13 +206,11 @@ export default function Jogo({
 function Microaula({
   k,
   onClose,
-  autoAudio,
   speedUp,
   draw,
 }: {
   k: Kanji;
   onClose: () => void;
-  autoAudio: boolean;
   speedUp: boolean;
   draw: boolean;
 }) {
@@ -257,7 +257,6 @@ function Microaula({
   }
 
   useEffect(() => {
-    if (autoAudio) tocarAudio();
     carregarTracos();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
