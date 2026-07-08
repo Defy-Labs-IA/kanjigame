@@ -1,15 +1,13 @@
 import { NextResponse } from "next/server";
 import { supabaseAdmin } from "@/lib/supabase";
-import { serverClient } from "@/lib/supabase-server";
+import { usuarioAtual, ehAdmin } from "@/lib/admin-auth";
 
 // Persiste as leituras revisadas no Supabase (escrita via service_role, no servidor).
-// Exige sessão Supabase (usuário logado no /admin).
+// Exige usuário com papel admin.
 export async function POST(req: Request) {
-  const {
-    data: { user },
-  } = await serverClient().auth.getUser();
-  if (!user) {
-    return NextResponse.json({ ok: false, erro: "não autenticado" }, { status: 401 });
+  const user = await usuarioAtual();
+  if (!ehAdmin(user)) {
+    return NextResponse.json({ ok: false, erro: "não autorizado" }, { status: 403 });
   }
 
   const sb = supabaseAdmin();

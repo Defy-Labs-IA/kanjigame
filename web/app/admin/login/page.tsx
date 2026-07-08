@@ -39,7 +39,7 @@ export default function LoginPage() {
         </button>
         <div className="erro">{erro}</div>
         <div className="note" style={{ marginTop: 10 }}>
-          Não tem conta? <Link href="/admin/signup" style={{ color: "var(--turq)" }}>Cadastre-se</Link>
+          Acesso restrito. Peça a um administrador para criar sua conta.
         </div>
       </form>
     </main>
