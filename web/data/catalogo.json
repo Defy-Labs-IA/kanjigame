@@ -2040,8 +2040,8 @@
   "significado": "Intervalo; espaço",
   "mundo": "Vida Cotidiana",
   "fase": 11,
-  "hiragana": "あい",
-  "romaji": "AI",
+  "hiragana": "あいだ",
+  "romaji": "AIDA",
   "on": [
    "カン",
    "ケン"
@@ -2052,8 +2052,8 @@
    "ま"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K102",
@@ -2072,8 +2072,8 @@
    "まる.める"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K103",
@@ -2090,8 +2090,8 @@
    "いわ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K104",
@@ -2108,8 +2108,8 @@
    "かお"
   ],
   "tracos": 18,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K105",
@@ -2117,8 +2117,8 @@
   "significado": "Voltar",
   "mundo": "Vida Cotidiana",
   "fase": 11,
-  "hiragana": "おく",
-  "romaji": "OKU",
+  "hiragana": "かえる",
+  "romaji": "KAERU",
   "on": [
    "キ"
   ],
@@ -2129,8 +2129,8 @@
    "とつ.ぐ"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K106",
@@ -2145,8 +2145,8 @@
   ],
   "kun": [],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K107",
@@ -2154,8 +2154,8 @@
   "significado": "Registrar",
   "mundo": "Vida Cotidiana",
   "fase": 11,
-  "hiragana": "しる",
-  "romaji": "SHIRU",
+  "hiragana": "き",
+  "romaji": "KI",
   "on": [
    "キ"
   ],
@@ -2163,8 +2163,8 @@
    "しる.す"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K108",
@@ -2181,8 +2181,8 @@
    "ゆみ"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K109",
@@ -2199,8 +2199,8 @@
    "うし"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K110",
@@ -2208,8 +2208,8 @@
   "significado": "Peixe",
   "mundo": "Vida Cotidiana",
   "fase": 11,
-  "hiragana": "うお",
-  "romaji": "UO",
+  "hiragana": "さかな",
+  "romaji": "SAKANA",
   "on": [
    "ギョ"
   ],
@@ -2219,8 +2219,8 @@
    "さかな"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K111",
@@ -2228,8 +2228,8 @@
   "significado": "Capital",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "みやこ",
-  "romaji": "MIYAKO",
+  "hiragana": "きょう",
+  "romaji": "KYOU",
   "on": [
    "キョウ",
    "キン",
@@ -2239,8 +2239,8 @@
    "みやこ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K112",
@@ -2248,8 +2248,8 @@
   "significado": "Forte",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "こわ",
-  "romaji": "KOWA",
+  "hiragana": "つよい",
+  "romaji": "TSUYOI",
   "on": [
    "キョウ",
    "ゴウ"
@@ -2262,8 +2262,8 @@
    "つよ.める"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K113",
@@ -2271,8 +2271,8 @@
   "significado": "Ensinar",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "おし",
-  "romaji": "OSHI",
+  "hiragana": "おしえる",
+  "romaji": "OSHIERU",
   "on": [
    "キョウ"
   ],
@@ -2281,8 +2281,8 @@
    "おそ.わる"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K114",
@@ -2290,8 +2290,8 @@
   "significado": "Perto",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "ちか",
-  "romaji": "CHIKA",
+  "hiragana": "ちかい",
+  "romaji": "CHIKAI",
   "on": [
    "キン",
    "コン"
@@ -2300,8 +2300,8 @@
    "ちか.い"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K115",
@@ -2319,8 +2319,8 @@
    "あに"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K116",
@@ -2328,8 +2328,8 @@
   "significado": "Forma",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "かた",
-  "romaji": "KATA",
+  "hiragana": "かたち",
+  "romaji": "KATACHI",
   "on": [
    "ギョウ",
    "ケイ"
@@ -2341,8 +2341,8 @@
    "なり"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K117",
@@ -2350,8 +2350,8 @@
   "significado": "Medir; plano",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "はか",
-  "romaji": "HAKA",
+  "hiragana": "はかる",
+  "romaji": "HAKARU",
   "on": [
    "ケイ"
   ],
@@ -2360,8 +2360,8 @@
    "はか.る"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K118",
@@ -2379,8 +2379,8 @@
    "もと"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K119",
@@ -2397,8 +2397,8 @@
    "はら"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K120",
@@ -2406,8 +2406,8 @@
   "significado": "Dizer; palavra",
   "mundo": "Vida Cotidiana",
   "fase": 12,
-  "hiragana": "い",
-  "romaji": "I",
+  "hiragana": "いう",
+  "romaji": "IU",
   "on": [
    "ゲン",
    "ゴン"
@@ -2417,8 +2417,8 @@
    "こと"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K121",
@@ -2426,8 +2426,8 @@
   "significado": "Antigo",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "ふる",
-  "romaji": "FURU",
+  "hiragana": "ふるい",
+  "romaji": "FURUI",
   "on": [
    "コ"
   ],
@@ -2437,8 +2437,8 @@
    "ふる.い"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K122",
@@ -2455,8 +2455,8 @@
    "と"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K123",
@@ -2464,8 +2464,8 @@
   "significado": "Meio-dia",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "うま",
-  "romaji": "UMA",
+  "hiragana": "ご",
+  "romaji": "GO",
   "on": [
    "ゴ"
   ],
@@ -2473,8 +2473,8 @@
    "うま"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K124",
@@ -2496,8 +2496,8 @@
    "のち"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K125",
@@ -2505,8 +2505,8 @@
   "significado": "Língua; palavra",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "かた",
-  "romaji": "KATA",
+  "hiragana": "ご",
+  "romaji": "GO",
   "on": [
    "ゴ"
   ],
@@ -2515,8 +2515,8 @@
    "かた.る"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K126",
@@ -2524,8 +2524,8 @@
   "significado": "Cruzar; conviver",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "か",
-  "romaji": "KA",
+  "hiragana": "こう",
+  "romaji": "KOU",
   "on": [
    "コウ"
   ],
@@ -2542,8 +2542,8 @@
    "まじ.わる"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K127",
@@ -2551,8 +2551,8 @@
   "significado": "Luz",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "ひか",
-  "romaji": "HIKA",
+  "hiragana": "ひかり",
+  "romaji": "HIKARI",
   "on": [
    "コウ"
   ],
@@ -2561,8 +2561,8 @@
    "ひかり"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K128",
@@ -2570,8 +2570,8 @@
   "significado": "Público",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "おおやけ",
-  "romaji": "OOYAKE",
+  "hiragana": "こう",
+  "romaji": "KOU",
   "on": [
    "ク",
    "コウ"
@@ -2580,8 +2580,8 @@
    "おおやけ"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K129",
@@ -2589,8 +2589,8 @@
   "significado": "Construção; ofício",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "く",
-  "romaji": "KU",
+  "hiragana": "こう",
+  "romaji": "KOU",
   "on": [
    "ク",
    "グ",
@@ -2598,8 +2598,8 @@
   ],
   "kun": [],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K130",
@@ -2607,8 +2607,8 @@
   "significado": "Amplo",
   "mundo": "Vida Cotidiana",
   "fase": 13,
-  "hiragana": "ひろ",
-  "romaji": "HIRO",
+  "hiragana": "ひろい",
+  "romaji": "HIROI",
   "on": [
    "コウ"
   ],
@@ -2620,8 +2620,8 @@
    "ひろ.める"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K131",
@@ -2629,8 +2629,8 @@
   "significado": "Pensar",
   "mundo": "Vida Cotidiana",
   "fase": 14,
-  "hiragana": "かんが",
-  "romaji": "KANGA",
+  "hiragana": "かんがえる",
+  "romaji": "KANGAERU",
   "on": [
    "コウ"
   ],
@@ -2639,8 +2639,8 @@
    "かんが.える"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K132",
@@ -2648,8 +2648,8 @@
   "significado": "Ir; realizar",
   "mundo": "Vida Cotidiana",
   "fase": 14,
-  "hiragana": "い",
-  "romaji": "I",
+  "hiragana": "いく",
+  "romaji": "IKU",
   "on": [
    "アン",
    "ギョウ",
@@ -2666,8 +2666,8 @@
    "ゆ.く"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K133",
@@ -2675,8 +2675,8 @@
   "significado": "Alto; caro",
   "mundo": "Vida Cotidiana",
   "fase": 14,
-  "hiragana": "たか",
-  "romaji": "TAKA",
+  "hiragana": "たかい",
+  "romaji": "TAKAI",
   "on": [
    "コウ"
   ],
@@ -2688,8 +2688,8 @@
    "たか.める"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K134",
@@ -2697,8 +2697,8 @@
   "significado": "Unir; combinar",
   "mundo": "Vida Cotidiana",
   "fase": 14,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "あう",
+  "romaji": "AU",
   "on": [
    "カッ",
    "ガッ",
@@ -2716,8 +2716,8 @@
    "あい-"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K135",
@@ -2734,8 +2734,8 @@
    "くに"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K136",
@@ -2754,8 +2754,8 @@
    "くろ.ずむ"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K137",
@@ -2773,8 +2773,8 @@
    "いま"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K138",
@@ -2789,8 +2789,8 @@
   ],
   "kun": [],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K139",
@@ -2798,8 +2798,8 @@
   "significado": "Fino; detalhado",
   "mundo": "Vida Cotidiana",
   "fase": 14,
-  "hiragana": "こま",
-  "romaji": "KOMA",
+  "hiragana": "ほそい",
+  "romaji": "HOSOI",
   "on": [
    "サイ"
   ],
@@ -2810,8 +2810,8 @@
    "ほそ.る"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K140",
@@ -2819,8 +2819,8 @@
   "significado": "Fazer; criar",
   "mundo": "Vida Cotidiana",
   "fase": 14,
-  "hiragana": "つく",
-  "romaji": "TSUKU",
+  "hiragana": "つくる",
+  "romaji": "TSUKURU",
   "on": [
    "サ",
    "サク"
@@ -2831,8 +2831,8 @@
    "つく.る"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K141",
@@ -2840,8 +2840,8 @@
   "significado": "Calcular",
   "mundo": "Vida Cotidiana",
   "fase": 15,
-  "hiragana": "そろ",
-  "romaji": "SORO",
+  "hiragana": "さん",
+  "romaji": "SAN",
   "on": [
    "サン"
   ],
@@ -2849,8 +2849,8 @@
    "そろ"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K142",
@@ -2868,8 +2868,8 @@
    "はは"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K143",
@@ -2877,8 +2877,8 @@
   "significado": "Cidade; mercado",
   "mundo": "Vida Cotidiana",
   "fase": 15,
-  "hiragana": "いち",
-  "romaji": "ICHI",
+  "hiragana": "し",
+  "romaji": "SHI",
   "on": [
    "シ"
   ],
@@ -2886,8 +2886,8 @@
    "いち"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K144",
@@ -2895,8 +2895,8 @@
   "significado": "Pensar; sentir",
   "mundo": "Vida Cotidiana",
   "fase": 15,
-  "hiragana": "おぼ",
-  "romaji": "OBO",
+  "hiragana": "おもう",
+  "romaji": "OMOU",
   "on": [
    "シ"
   ],
@@ -2906,8 +2906,8 @@
    "おもえら.く"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K145",
@@ -2915,8 +2915,8 @@
   "significado": "Parar",
   "mundo": "Vida Cotidiana",
   "fase": 15,
-  "hiragana": "と",
-  "romaji": "TO",
+  "hiragana": "とまる",
+  "romaji": "TOMARU",
   "on": [
    "シ"
   ],
@@ -2937,8 +2937,8 @@
    "よ.す"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K146",
@@ -2955,8 +2955,8 @@
    "かみ"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K147",
@@ -2973,8 +2973,8 @@
    "てら"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K148",
@@ -2992,8 +2992,8 @@
    "とき"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K149",
@@ -3001,8 +3001,8 @@
   "significado": "Si mesmo",
   "mundo": "Vida Cotidiana",
   "fase": 15,
-  "hiragana": "おの",
-  "romaji": "ONO",
+  "hiragana": "じ",
+  "romaji": "JI",
   "on": [
    "シ",
    "ジ"
@@ -3013,8 +3013,8 @@
    "みずか.ら"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K150",
@@ -3022,8 +3022,8 @@
   "significado": "Sala",
   "mundo": "Vida Cotidiana",
   "fase": 15,
-  "hiragana": "むろ",
-  "romaji": "MURO",
+  "hiragana": "しつ",
+  "romaji": "SHITSU",
   "on": [
    "シツ"
   ],
@@ -3031,8 +3031,8 @@
    "むろ"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K151",
@@ -3040,8 +3040,8 @@
   "significado": "Empresa; santuário",
   "mundo": "Movimento e Ações",
   "fase": 16,
-  "hiragana": "やしろ",
-  "romaji": "YASHIRO",
+  "hiragana": "しゃ",
+  "romaji": "SHA",
   "on": [
    "シャ"
   ],
@@ -3049,8 +3049,8 @@
    "やしろ"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K152",
@@ -3058,8 +3058,8 @@
   "significado": "Fraco",
   "mundo": "Movimento e Ações",
   "fase": 16,
-  "hiragana": "よわ",
-  "romaji": "YOWA",
+  "hiragana": "よわい",
+  "romaji": "YOWAI",
   "on": [
    "ジャク"
   ],
@@ -3070,8 +3070,8 @@
    "よわ.る"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K153",
@@ -3088,8 +3088,8 @@
    "くび"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K154",
@@ -3107,8 +3107,8 @@
    "とき"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K155",
@@ -3123,8 +3123,8 @@
   ],
   "kun": [],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K156",
@@ -3141,8 +3141,8 @@
    "はる"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K157",
@@ -3150,8 +3150,8 @@
   "significado": "Escrever; livro",
   "mundo": "Movimento e Ações",
   "fase": 16,
-  "hiragana": "か",
-  "romaji": "KA",
+  "hiragana": "かく",
+  "romaji": "KAKU",
   "on": [
    "ショ"
   ],
@@ -3161,8 +3161,8 @@
    "か.く"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K158",
@@ -3170,8 +3170,8 @@
   "significado": "Pouco",
   "mundo": "Movimento e Ações",
   "fase": 16,
-  "hiragana": "すく",
-  "romaji": "SUKU",
+  "hiragana": "すくない",
+  "romaji": "SUKUNAI",
   "on": [
    "ショウ"
   ],
@@ -3180,8 +3180,8 @@
    "すこ.し"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K159",
@@ -3199,8 +3199,8 @@
    "ば"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K160",
@@ -3218,8 +3218,8 @@
    "いろ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K161",
@@ -3227,8 +3227,8 @@
   "significado": "Comer; alimento",
   "mundo": "Movimento e Ações",
   "fase": 17,
-  "hiragana": "く",
-  "romaji": "KU",
+  "hiragana": "たべる",
+  "romaji": "TABERU",
   "on": [
    "ショク",
    "ジキ"
@@ -3240,8 +3240,8 @@
    "は.む"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K162",
@@ -3259,8 +3259,8 @@
    "こころ"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K163",
@@ -3268,8 +3268,8 @@
   "significado": "Novo",
   "mundo": "Movimento e Ações",
   "fase": 17,
-  "hiragana": "あたら",
-  "romaji": "ATARA",
+  "hiragana": "あたらしい",
+  "romaji": "ATARASHII",
   "on": [
    "シン"
   ],
@@ -3280,8 +3280,8 @@
    "にい-"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K164",
@@ -3301,8 +3301,8 @@
    "した.しむ"
   ],
   "tracos": 16,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K165",
@@ -3310,8 +3310,8 @@
   "significado": "Mapa; desenho",
   "mundo": "Movimento e Ações",
   "fase": 17,
-  "hiragana": "え",
-  "romaji": "E",
+  "hiragana": "ず",
+  "romaji": "ZU",
   "on": [
    "ズ",
    "ト"
@@ -3321,8 +3321,8 @@
    "はか.る"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K166",
@@ -3347,8 +3347,8 @@
    "わずらわ.しい"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K167",
@@ -3367,8 +3367,8 @@
    "ほし"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K168",
@@ -3376,8 +3376,8 @@
   "significado": "Tempo aberto",
   "mundo": "Movimento e Ações",
   "fase": 17,
-  "hiragana": "は",
-  "romaji": "HA",
+  "hiragana": "はれ",
+  "romaji": "HARE",
   "on": [
    "セイ"
   ],
@@ -3389,8 +3389,8 @@
    "は.れる"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K169",
@@ -3409,8 +3409,8 @@
    "こわ-"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K170",
@@ -3429,8 +3429,8 @@
    "にし"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K171",
@@ -3438,8 +3438,8 @@
   "significado": "Cortar",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "き",
-  "romaji": "KI",
+  "hiragana": "きる",
+  "romaji": "KIRU",
   "on": [
    "サイ",
    "セツ"
@@ -3457,8 +3457,8 @@
    "き.れる"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K172",
@@ -3475,8 +3475,8 @@
    "ゆき"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K173",
@@ -3484,8 +3484,8 @@
   "significado": "Linha",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "すじ",
-  "romaji": "SUJI",
+  "hiragana": "せん",
+  "romaji": "SEN",
   "on": [
    "セン"
   ],
@@ -3493,8 +3493,8 @@
    "すじ"
   ],
   "tracos": 15,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K174",
@@ -3512,8 +3512,8 @@
    "ふね"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K175",
@@ -3531,8 +3531,8 @@
    "まえ"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K176",
@@ -3540,8 +3540,8 @@
   "significado": "Grupo; montar",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "く",
-  "romaji": "KU",
+  "hiragana": "くみ",
+  "romaji": "KUMI",
   "on": [
    "ソ"
   ],
@@ -3551,8 +3551,8 @@
    "くみ"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K177",
@@ -3560,8 +3560,8 @@
   "significado": "Correr",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "はし",
-  "romaji": "HASHI",
+  "hiragana": "はしる",
+  "romaji": "HASHIRU",
   "on": [
    "ソウ"
   ],
@@ -3569,8 +3569,8 @@
    "はし.る"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K178",
@@ -3578,8 +3578,8 @@
   "significado": "Muitos",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "おお",
-  "romaji": "OO",
+  "hiragana": "おおい",
+  "romaji": "OOI",
   "on": [
    "タ"
   ],
@@ -3589,8 +3589,8 @@
    "まさ.る"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K179",
@@ -3598,8 +3598,8 @@
   "significado": "Grosso; grande",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "ふと",
-  "romaji": "FUTO",
+  "hiragana": "ふとい",
+  "romaji": "FUTOI",
   "on": [
    "タ",
    "タイ"
@@ -3609,8 +3609,8 @@
    "ふと.る"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K180",
@@ -3618,8 +3618,8 @@
   "significado": "Corpo",
   "mundo": "Movimento e Ações",
   "fase": 18,
-  "hiragana": "かたち",
-  "romaji": "KATACHI",
+  "hiragana": "からだ",
+  "romaji": "KARADA",
   "on": [
    "タイ",
    "テイ"
@@ -3629,8 +3629,8 @@
    "からだ"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K181",
@@ -3638,8 +3638,8 @@
   "significado": "Plataforma; base",
   "mundo": "Movimento e Ações",
   "fase": 19,
-  "hiragana": "うてな",
-  "romaji": "UTENA",
+  "hiragana": "だい",
+  "romaji": "DAI",
   "on": [
    "タイ",
    "ダイ"
@@ -3650,8 +3650,8 @@
    "われ"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K182",
@@ -3659,8 +3659,8 @@
   "significado": "Vale",
   "mundo": "Movimento e Ações",
   "fase": 19,
-  "hiragana": "きわ",
-  "romaji": "KIWA",
+  "hiragana": "たに",
+  "romaji": "TANI",
   "on": [
    "コク"
   ],
@@ -3669,8 +3669,8 @@
    "たに"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K183",
@@ -3678,8 +3678,8 @@
   "significado": "Saber",
   "mundo": "Movimento e Ações",
   "fase": 19,
-  "hiragana": "し",
-  "romaji": "SHI",
+  "hiragana": "しる",
+  "romaji": "SHIRU",
   "on": [
    "チ"
   ],
@@ -3688,8 +3688,8 @@
    "し.る"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K184",
@@ -3697,16 +3697,16 @@
   "significado": "Terra; área",
   "mundo": "Movimento e Ações",
   "fase": 19,
-  "hiragana": "じ",
-  "romaji": "JI",
+  "hiragana": "ち",
+  "romaji": "CHI",
   "on": [
    "ジ",
    "チ"
   ],
   "kun": [],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K185",
@@ -3723,8 +3723,8 @@
    "いけ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K186",
@@ -3732,16 +3732,16 @@
   "significado": "Chá",
   "mundo": "Movimento e Ações",
   "fase": 19,
-  "hiragana": "さ",
-  "romaji": "SA",
+  "hiragana": "ちゃ",
+  "romaji": "CHA",
   "on": [
    "サ",
    "チャ"
   ],
   "kun": [],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K187",
@@ -3758,8 +3758,8 @@
    "ひる"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K188",
@@ -3776,8 +3776,8 @@
    "あさ"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K189",
@@ -3785,8 +3785,8 @@
   "significado": "Longo; chefe",
   "mundo": "Movimento e Ações",
   "fase": 19,
-  "hiragana": "おさ",
-  "romaji": "OSA",
+  "hiragana": "ながい",
+  "romaji": "NAGAI",
   "on": [
    "チョウ"
   ],
@@ -3795,8 +3795,8 @@
    "なが.い"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K190",
@@ -3813,8 +3813,8 @@
    "とり"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K191",
@@ -3822,8 +3822,8 @@
   "significado": "Direto; corrigir",
   "mundo": "Movimento e Ações",
   "fase": 20,
-  "hiragana": "す",
-  "romaji": "SU",
+  "hiragana": "なおす",
+  "romaji": "NAOSU",
   "on": [
    "ジカ",
    "ジキ",
@@ -3838,8 +3838,8 @@
    "なお.る"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K192",
@@ -3847,8 +3847,8 @@
   "significado": "Passar; trânsito",
   "mundo": "Movimento e Ações",
   "fase": 20,
-  "hiragana": "かよ",
-  "romaji": "KAYO",
+  "hiragana": "とおる",
+  "romaji": "TOORU",
   "on": [
    "ツ",
    "ツウ"
@@ -3864,8 +3864,8 @@
    "とお.る"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K193",
@@ -3884,8 +3884,8 @@
    "おとうと"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K194",
@@ -3893,8 +3893,8 @@
   "significado": "Loja",
   "mundo": "Movimento e Ações",
   "fase": 20,
-  "hiragana": "たな",
-  "romaji": "TANA",
+  "hiragana": "みせ",
+  "romaji": "MISE",
   "on": [
    "テン"
   ],
@@ -3903,8 +3903,8 @@
    "みせ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K195",
@@ -3912,8 +3912,8 @@
   "significado": "Ponto",
   "mundo": "Movimento e Ações",
   "fase": 20,
-  "hiragana": "さ",
-  "romaji": "SA",
+  "hiragana": "てん",
+  "romaji": "TEN",
   "on": [
    "テン"
   ],
@@ -3927,8 +3927,8 @@
    "ぼち"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K196",
@@ -3943,8 +3943,8 @@
   ],
   "kun": [],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K197",
@@ -3961,8 +3961,8 @@
    "ふゆ"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K198",
@@ -3980,8 +3980,8 @@
    "そり"
   ],
   "tracos": 2,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K199",
@@ -3998,8 +3998,8 @@
    "ひがし"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K200",
@@ -4007,8 +4007,8 @@
   "significado": "Acertar; correspondente",
   "mundo": "Movimento e Ações",
   "fase": 20,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "あたる",
+  "romaji": "ATARU",
   "on": [
    "トウ"
   ],
@@ -4021,8 +4021,8 @@
    "まさ.にべし"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K201",
@@ -4030,8 +4030,8 @@
   "significado": "Resposta",
   "mundo": "Calendário e Sociedade",
   "fase": 21,
-  "hiragana": "こた",
-  "romaji": "KOTA",
+  "hiragana": "こたえ",
+  "romaji": "KOTAE",
   "on": [
    "トウ"
   ],
@@ -4040,8 +4040,8 @@
    "こた.える"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K202",
@@ -4063,8 +4063,8 @@
    "かぶり"
   ],
   "tracos": 16,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K203",
@@ -4072,8 +4072,8 @@
   "significado": "Mesmo",
   "mundo": "Calendário e Sociedade",
   "fase": 21,
-  "hiragana": "おな",
-  "romaji": "ONA",
+  "hiragana": "おなじ",
+  "romaji": "ONAJI",
   "on": [
    "ドウ"
   ],
@@ -4081,8 +4081,8 @@
    "おな.じ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K204",
@@ -4090,8 +4090,8 @@
   "significado": "Caminho",
   "mundo": "Calendário e Sociedade",
   "fase": 21,
-  "hiragana": "いう",
-  "romaji": "IU",
+  "hiragana": "みち",
+  "romaji": "MICHI",
   "on": [
    "トウ",
    "ドウ"
@@ -4101,8 +4101,8 @@
    "みち"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K205",
@@ -4110,8 +4110,8 @@
   "significado": "Ler",
   "mundo": "Calendário e Sociedade",
   "fase": 21,
-  "hiragana": "よ",
-  "romaji": "YO",
+  "hiragana": "よむ",
+  "romaji": "YOMU",
   "on": [
    "トウ",
    "トク",
@@ -4122,8 +4122,8 @@
    "よ.む"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K206",
@@ -4141,8 +4141,8 @@
    "うち"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K207",
@@ -4160,8 +4160,8 @@
    "みなみ"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K208",
@@ -4169,8 +4169,8 @@
   "significado": "Carne",
   "mundo": "Calendário e Sociedade",
   "fase": 21,
-  "hiragana": "しし",
-  "romaji": "SHISHI",
+  "hiragana": "にく",
+  "romaji": "NIKU",
   "on": [
    "ニク"
   ],
@@ -4178,8 +4178,8 @@
    "しし"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K209",
@@ -4198,8 +4198,8 @@
    "ま"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K210",
@@ -4207,8 +4207,8 @@
   "significado": "Comprar",
   "mundo": "Calendário e Sociedade",
   "fase": 21,
-  "hiragana": "か",
-  "romaji": "KA",
+  "hiragana": "かう",
+  "romaji": "KAU",
   "on": [
    "バイ"
   ],
@@ -4216,8 +4216,8 @@
    "か.う"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K211",
@@ -4225,8 +4225,8 @@
   "significado": "Vender",
   "mundo": "Calendário e Sociedade",
   "fase": 22,
-  "hiragana": "う",
-  "romaji": "U",
+  "hiragana": "うる",
+  "romaji": "URU",
   "on": [
    "バイ"
   ],
@@ -4235,8 +4235,8 @@
    "う.れる"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K212",
@@ -4253,8 +4253,8 @@
    "むぎ"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K213",
@@ -4262,8 +4262,8 @@
   "significado": "Metade",
   "mundo": "Calendário e Sociedade",
   "fase": 22,
-  "hiragana": "なか",
-  "romaji": "NAKA",
+  "hiragana": "はん",
+  "romaji": "HAN",
   "on": [
    "ハン"
   ],
@@ -4271,8 +4271,8 @@
    "なか.ば"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K214",
@@ -4280,8 +4280,8 @@
   "significado": "Número; turno",
   "mundo": "Calendário e Sociedade",
   "fase": 22,
-  "hiragana": "つが",
-  "romaji": "TSUGA",
+  "hiragana": "ばん",
+  "romaji": "BAN",
   "on": [
    "バン"
   ],
@@ -4289,8 +4289,8 @@
    "つが.い"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K215",
@@ -4307,8 +4307,8 @@
    "ちち"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K216",
@@ -4327,8 +4327,8 @@
    "かぜ"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K217",
@@ -4336,8 +4336,8 @@
   "significado": "Ouvir; perguntar",
   "mundo": "Calendário e Sociedade",
   "fase": 22,
-  "hiragana": "き",
-  "romaji": "KI",
+  "hiragana": "きく",
+  "romaji": "KIKU",
   "on": [
    "ブン",
    "モン"
@@ -4347,8 +4347,8 @@
    "き.こえる"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K218",
@@ -4368,8 +4368,8 @@
    "よね"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K219",
@@ -4377,8 +4377,8 @@
   "significado": "Andar",
   "mundo": "Calendário e Sociedade",
   "fase": 22,
-  "hiragana": "あゆ",
-  "romaji": "AYU",
+  "hiragana": "あるく",
+  "romaji": "ARUKU",
   "on": [
    "フ",
    "ブ",
@@ -4389,8 +4389,8 @@
    "ある.く"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K220",
@@ -4408,8 +4408,8 @@
    "も"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K221",
@@ -4417,8 +4417,8 @@
   "significado": "Direção; pessoa",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "かた",
-  "romaji": "KATA",
+  "hiragana": "ほう",
+  "romaji": "HOU",
   "on": [
    "ホウ"
   ],
@@ -4428,8 +4428,8 @@
    "かた"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K222",
@@ -4446,8 +4446,8 @@
    "きた"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K223",
@@ -4464,8 +4464,8 @@
    "いもうと"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K224",
@@ -4473,8 +4473,8 @@
   "significado": "Cada",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "ごと",
-  "romaji": "GOTO",
+  "hiragana": "まい",
+  "romaji": "MAI",
   "on": [
    "マイ"
   ],
@@ -4483,8 +4483,8 @@
    "ごと"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K225",
@@ -4492,8 +4492,8 @@
   "significado": "Dez mil",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "よろず",
-  "romaji": "YOROZU",
+  "hiragana": "まん",
+  "romaji": "MAN",
   "on": [
    "バン",
    "マン"
@@ -4502,8 +4502,8 @@
    "よろず"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K226",
@@ -4511,8 +4511,8 @@
   "significado": "Claro; brilhante",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "あかるい",
+  "romaji": "AKARUI",
   "on": [
    "ミョウ",
    "ミン",
@@ -4531,8 +4531,8 @@
    "あき.らか"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K227",
@@ -4540,8 +4540,8 @@
   "significado": "Soar; cantar",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "な",
-  "romaji": "NA",
+  "hiragana": "なく",
+  "romaji": "NAKU",
   "on": [
    "メイ"
   ],
@@ -4551,8 +4551,8 @@
    "な.る"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K228",
@@ -4569,8 +4569,8 @@
    "け"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K229",
@@ -4578,8 +4578,8 @@
   "significado": "Portão",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "かど",
-  "romaji": "KADO",
+  "hiragana": "もん",
+  "romaji": "MON",
   "on": [
    "モン"
   ],
@@ -4588,8 +4588,8 @@
    "と"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K230",
@@ -4597,8 +4597,8 @@
   "significado": "Noite",
   "mundo": "Calendário e Sociedade",
   "fase": 23,
-  "hiragana": "よ",
-  "romaji": "YO",
+  "hiragana": "よる",
+  "romaji": "YORU",
   "on": [
    "ヤ"
   ],
@@ -4607,8 +4607,8 @@
    "よる"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K231",
@@ -4627,8 +4627,8 @@
    "の-"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K232",
@@ -4645,8 +4645,8 @@
    "や"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K233",
@@ -4663,8 +4663,8 @@
    "とも"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K234",
@@ -4679,8 +4679,8 @@
   ],
   "kun": [],
   "tracos": 18,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K235",
@@ -4688,8 +4688,8 @@
   "significado": "Usar",
   "mundo": "Calendário e Sociedade",
   "fase": 24,
-  "hiragana": "もち",
-  "romaji": "MOCHI",
+  "hiragana": "よう",
+  "romaji": "YOU",
   "on": [
    "ヨウ"
   ],
@@ -4697,8 +4697,8 @@
    "もち.いる"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K236",
@@ -4706,8 +4706,8 @@
   "significado": "Vir",
   "mundo": "Calendário e Sociedade",
   "fase": 24,
-  "hiragana": "き",
-  "romaji": "KI",
+  "hiragana": "くる",
+  "romaji": "KURU",
   "on": [
    "タイ",
    "ライ"
@@ -4722,8 +4722,8 @@
    "こ"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K237",
@@ -4731,8 +4731,8 @@
   "significado": "Razão; lógica",
   "mundo": "Calendário e Sociedade",
   "fase": 24,
-  "hiragana": "ことわり",
-  "romaji": "KOTOWARI",
+  "hiragana": "り",
+  "romaji": "RI",
   "on": [
    "リ"
   ],
@@ -4740,8 +4740,8 @@
    "ことわり"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K238",
@@ -4749,8 +4749,8 @@
   "significado": "Falar; história",
   "mundo": "Calendário e Sociedade",
   "fase": 24,
-  "hiragana": "はな",
-  "romaji": "HANA",
+  "hiragana": "はなす",
+  "romaji": "HANASU",
   "on": [
    "ワ"
   ],
@@ -4759,8 +4759,8 @@
    "はなし"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K239",
@@ -4768,8 +4768,8 @@
   "significado": "Ruim; mal",
   "mundo": "Calendário e Sociedade",
   "fase": 24,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "わるい",
+  "romaji": "WARUI",
   "on": [
    "アク",
    "オ"
@@ -4786,8 +4786,8 @@
    "わる.い"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K240",
@@ -4795,8 +4795,8 @@
   "significado": "Barato; tranquilo",
   "mundo": "Calendário e Sociedade",
   "fase": 24,
-  "hiragana": "やす",
-  "romaji": "YASU",
+  "hiragana": "やすい",
+  "romaji": "YASUI",
   "on": [
    "アン"
   ],
@@ -4807,8 +4807,8 @@
    "やす.らか"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K241",
@@ -4816,8 +4816,8 @@
   "significado": "Escuro",
   "mundo": "Calendário e Sociedade",
   "fase": 25,
-  "hiragana": "くら",
-  "romaji": "KURA",
+  "hiragana": "くらい",
+  "romaji": "KURAI",
   "on": [
    "アン"
   ],
@@ -4827,8 +4827,8 @@
    "くれ.る"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K242",
@@ -4836,8 +4836,8 @@
   "significado": "Confiar; comissão",
   "mundo": "Calendário e Sociedade",
   "fase": 25,
-  "hiragana": "ゆだ",
-  "romaji": "YUDA",
+  "hiragana": "い",
+  "romaji": "I",
   "on": [
    "イ"
   ],
@@ -4845,8 +4845,8 @@
    "ゆだ.ねる"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K243",
@@ -4861,8 +4861,8 @@
   ],
   "kun": [],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K244",
@@ -4881,8 +4881,8 @@
    "くすし"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K245",
@@ -4890,8 +4890,8 @@
   "significado": "Criar; educar",
   "mundo": "Calendário e Sociedade",
   "fase": 25,
-  "hiragana": "そだ",
-  "romaji": "SODA",
+  "hiragana": "そだてる",
+  "romaji": "SODATERU",
   "on": [
    "イク"
   ],
@@ -4902,8 +4902,8 @@
    "はぐく.む"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K246",
@@ -4918,8 +4918,8 @@
   ],
   "kun": [],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K247",
@@ -4927,8 +4927,8 @@
   "significado": "Beber",
   "mundo": "Calendário e Sociedade",
   "fase": 25,
-  "hiragana": "の",
-  "romaji": "NO",
+  "hiragana": "のむ",
+  "romaji": "NOMU",
   "on": [
    "イン",
    "オン"
@@ -4938,8 +4938,8 @@
    "の.む"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K248",
@@ -4954,8 +4954,8 @@
   ],
   "kun": [],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K249",
@@ -4963,8 +4963,8 @@
   "significado": "Transportar; sorte",
   "mundo": "Calendário e Sociedade",
   "fase": 25,
-  "hiragana": "はこ",
-  "romaji": "HAKO",
+  "hiragana": "はこぶ",
+  "romaji": "HAKOBU",
   "on": [
    "ウン"
   ],
@@ -4972,8 +4972,8 @@
    "はこ.ぶ"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K250",
@@ -4981,8 +4981,8 @@
   "significado": "Nadar",
   "mundo": "Calendário e Sociedade",
   "fase": 25,
-  "hiragana": "およ",
-  "romaji": "OYO",
+  "hiragana": "およぐ",
+  "romaji": "OYOGU",
   "on": [
    "エイ"
   ],
@@ -4990,8 +4990,8 @@
    "およ.ぐ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K251",
@@ -5006,8 +5006,8 @@
   ],
   "kun": [],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K252",
@@ -5022,8 +5022,8 @@
   ],
   "kun": [],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K253",
@@ -5040,8 +5040,8 @@
    "よこ"
   ],
   "tracos": 15,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K254",
@@ -5058,8 +5058,8 @@
    "や"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K255",
@@ -5067,8 +5067,8 @@
   "significado": "Morno; temperatura",
   "mundo": "Consolidação",
   "fase": 26,
-  "hiragana": "あたた",
-  "romaji": "ATATA",
+  "hiragana": "あたたかい",
+  "romaji": "ATATAKAI",
   "on": [
    "オン"
   ],
@@ -5080,8 +5080,8 @@
    "ぬく"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K256",
@@ -5089,8 +5089,8 @@
   "significado": "Transformar",
   "mundo": "Consolidação",
   "fase": 26,
-  "hiragana": "け",
-  "romaji": "KE",
+  "hiragana": "か",
+  "romaji": "KA",
   "on": [
    "カ",
    "ケ"
@@ -5102,8 +5102,8 @@
    "ふ.ける"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K257",
@@ -5120,8 +5120,8 @@
    "に"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K258",
@@ -5136,8 +5136,8 @@
   ],
   "kun": [],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K259",
@@ -5145,8 +5145,8 @@
   "significado": "Abrir",
   "mundo": "Consolidação",
   "fase": 26,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "ひらく",
+  "romaji": "HIRAKU",
   "on": [
    "カイ"
   ],
@@ -5159,8 +5159,8 @@
    "ひら.ける"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K260",
@@ -5168,8 +5168,8 @@
   "significado": "Andar; escada",
   "mundo": "Consolidação",
   "fase": 26,
-  "hiragana": "きざはし",
-  "romaji": "KIZAHASHI",
+  "hiragana": "かい",
+  "romaji": "KAI",
   "on": [
    "カイ"
   ],
@@ -5177,8 +5177,8 @@
    "きざはし"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K261",
@@ -5186,8 +5186,8 @@
   "significado": "Frio",
   "mundo": "Consolidação",
   "fase": 27,
-  "hiragana": "さむ",
-  "romaji": "SAMU",
+  "hiragana": "さむい",
+  "romaji": "SAMUI",
   "on": [
    "カン"
   ],
@@ -5195,8 +5195,8 @@
    "さむ.い"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K262",
@@ -5211,8 +5211,8 @@
   ],
   "kun": [],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K263",
@@ -5227,8 +5227,8 @@
   ],
   "kun": [],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K264",
@@ -5236,8 +5236,8 @@
   "significado": "Edifício; salão",
   "mundo": "Consolidação",
   "fase": 27,
-  "hiragana": "たて",
-  "romaji": "TATE",
+  "hiragana": "かん",
+  "romaji": "KAN",
   "on": [
    "カン"
   ],
@@ -5246,8 +5246,8 @@
    "やかた"
   ],
   "tracos": 16,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K265",
@@ -5264,8 +5264,8 @@
    "きし"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K266",
@@ -5281,8 +5281,8 @@
   ],
   "kun": [],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K267",
@@ -5290,8 +5290,8 @@
   "significado": "Levantar; começar",
   "mundo": "Consolidação",
   "fase": 27,
-  "hiragana": "お",
-  "romaji": "O",
+  "hiragana": "おきる",
+  "romaji": "OKIRU",
   "on": [
    "キ"
   ],
@@ -5303,8 +5303,8 @@
    "た.つ"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K268",
@@ -5312,16 +5312,16 @@
   "significado": "Visitante; cliente",
   "mundo": "Consolidação",
   "fase": 27,
-  "hiragana": "かく",
-  "romaji": "KAKU",
+  "hiragana": "きゃく",
+  "romaji": "KYAKU",
   "on": [
    "カク",
    "キャク"
   ],
   "kun": [],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K269",
@@ -5341,8 +5341,8 @@
    "みや"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K270",
@@ -5350,8 +5350,8 @@
   "significado": "Urgente; apressar",
   "mundo": "Consolidação",
   "fase": 27,
-  "hiragana": "いそ",
-  "romaji": "ISO",
+  "hiragana": "いそぐ",
+  "romaji": "ISOGU",
   "on": [
    "キュウ"
   ],
@@ -5361,8 +5361,8 @@
    "せ.く"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K271",
@@ -5370,8 +5370,8 @@
   "significado": "Bola; esfera",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "たま",
-  "romaji": "TAMA",
+  "hiragana": "きゅう",
+  "romaji": "KYUU",
   "on": [
    "キュウ"
   ],
@@ -5379,8 +5379,8 @@
    "たま"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K272",
@@ -5388,8 +5388,8 @@
   "significado": "Pesquisar",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "きわ",
-  "romaji": "KIWA",
+  "hiragana": "きゅう",
+  "romaji": "KYUU",
   "on": [
    "キュウ",
    "ク"
@@ -5398,8 +5398,8 @@
    "きわ.める"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K273",
@@ -5414,8 +5414,8 @@
   ],
   "kun": [],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K274",
@@ -5423,8 +5423,8 @@
   "significado": "Passado; ir embora",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "さ",
-  "romaji": "SA",
+  "hiragana": "さる",
+  "romaji": "SARU",
   "on": [
    "キョ",
    "コ"
@@ -5434,8 +5434,8 @@
    "さ.る"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K275",
@@ -5452,8 +5452,8 @@
    "はし"
   ],
   "tracos": 16,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K276",
@@ -5461,8 +5461,8 @@
   "significado": "Trabalho; indústria",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "わざ",
-  "romaji": "WAZA",
+  "hiragana": "ぎょう",
+  "romaji": "GYOU",
   "on": [
    "ギョウ",
    "ゴウ"
@@ -5471,8 +5471,8 @@
    "わざ"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K277",
@@ -5480,8 +5480,8 @@
   "significado": "Departamento; estação",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "つぼね",
-  "romaji": "TSUBONE",
+  "hiragana": "きょく",
+  "romaji": "KYOKU",
   "on": [
    "キョク"
   ],
@@ -5489,8 +5489,8 @@
    "つぼね"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K278",
@@ -5498,8 +5498,8 @@
   "significado": "Curva; música",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "くま",
-  "romaji": "KUMA",
+  "hiragana": "きょく",
+  "romaji": "KYOKU",
   "on": [
    "キョク"
   ],
@@ -5509,8 +5509,8 @@
    "ま.げる"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K279",
@@ -5518,8 +5518,8 @@
   "significado": "Prata",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "しろがね",
-  "romaji": "SHIROGANE",
+  "hiragana": "ぎん",
+  "romaji": "GIN",
   "on": [
    "ギン"
   ],
@@ -5527,8 +5527,8 @@
    "しろがね"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K280",
@@ -5536,8 +5536,8 @@
   "significado": "Distrito",
   "mundo": "Consolidação",
   "fase": 28,
-  "hiragana": "おう",
-  "romaji": "OU",
+  "hiragana": "く",
+  "romaji": "KU",
   "on": [
    "オウ",
    "ク",
@@ -5545,8 +5545,8 @@
   ],
   "kun": [],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K281",
@@ -5554,8 +5554,8 @@
   "significado": "Sofrimento; difícil",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "くる",
-  "romaji": "KURU",
+  "hiragana": "くるしい",
+  "romaji": "KURUSHII",
   "on": [
    "ク"
   ],
@@ -5568,8 +5568,8 @@
    "にが.る"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K282",
@@ -5577,8 +5577,8 @@
   "significado": "Ferramenta",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "そな",
-  "romaji": "SONA",
+  "hiragana": "ぐ",
+  "romaji": "GU",
   "on": [
    "グ"
   ],
@@ -5587,8 +5587,8 @@
    "つぶさ.に"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K283",
@@ -5606,8 +5606,8 @@
    "きみ"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K284",
@@ -5615,8 +5615,8 @@
   "significado": "Responsável; relação",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "かか",
-  "romaji": "KAKA",
+  "hiragana": "かかり",
+  "romaji": "KAKARI",
   "on": [
    "ケイ"
   ],
@@ -5627,8 +5627,8 @@
    "かかり"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K285",
@@ -5636,8 +5636,8 @@
   "significado": "Leve",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "かる",
-  "romaji": "KARU",
+  "hiragana": "かるい",
+  "romaji": "KARUI",
   "on": [
    "キョウ",
    "キン",
@@ -5649,8 +5649,8 @@
    "かろ.んじる"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K286",
@@ -5658,8 +5658,8 @@
   "significado": "Decidir",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "き",
-  "romaji": "KI",
+  "hiragana": "きめる",
+  "romaji": "KIMERU",
   "on": [
    "ケツ"
   ],
@@ -5670,8 +5670,8 @@
    "さ.く"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K287",
@@ -5688,8 +5688,8 @@
    "ち"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K288",
@@ -5697,8 +5697,8 @@
   "significado": "Estudar; polir",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "と",
-  "romaji": "TO",
+  "hiragana": "けん",
+  "romaji": "KEN",
   "on": [
    "ケン"
   ],
@@ -5706,8 +5706,8 @@
    "と.ぐ"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K289",
@@ -5715,8 +5715,8 @@
   "significado": "Prefeitura",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "か",
-  "romaji": "KA",
+  "hiragana": "けん",
+  "romaji": "KEN",
   "on": [
    "ケン"
   ],
@@ -5724,8 +5724,8 @@
    "か.ける"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K290",
@@ -5733,8 +5733,8 @@
   "significado": "Depósito",
   "mundo": "Consolidação",
   "fase": 29,
-  "hiragana": "くら",
-  "romaji": "KURA",
+  "hiragana": "こ",
+  "romaji": "KO",
   "on": [
    "ク",
    "コ"
@@ -5743,8 +5743,8 @@
    "くら"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K291",
@@ -5761,8 +5761,8 @@
    "みずうみ"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K292",
@@ -5770,8 +5770,8 @@
   "significado": "Direção; voltar-se",
   "mundo": "Consolidação",
   "fase": 30,
-  "hiragana": "む",
-  "romaji": "MU",
+  "hiragana": "むく",
+  "romaji": "MUKU",
   "on": [
    "コウ"
   ],
@@ -5789,8 +5789,8 @@
    "むこ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K293",
@@ -5798,8 +5798,8 @@
   "significado": "Felicidade",
   "mundo": "Consolidação",
   "fase": 30,
-  "hiragana": "さいわ",
-  "romaji": "SAIWA",
+  "hiragana": "しあわせ",
+  "romaji": "SHIAWASE",
   "on": [
    "コウ"
   ],
@@ -5809,8 +5809,8 @@
    "しあわ.せ"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K294",
@@ -5827,8 +5827,8 @@
    "みなと"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K295",
@@ -5836,8 +5836,8 @@
   "significado": "Número; título",
   "mundo": "Consolidação",
   "fase": 30,
-  "hiragana": "さけ",
-  "romaji": "SAKE",
+  "hiragana": "ごう",
+  "romaji": "GOU",
   "on": [
    "ゴウ"
   ],
@@ -5846,8 +5846,8 @@
    "よびな"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K296",
@@ -5865,8 +5865,8 @@
    "ね"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K297",
@@ -5874,8 +5874,8 @@
   "significado": "Festival",
   "mundo": "Consolidação",
   "fase": 30,
-  "hiragana": "まつ",
-  "romaji": "MATSU",
+  "hiragana": "まつり",
+  "romaji": "MATSURI",
   "on": [
    "サイ"
   ],
@@ -5885,8 +5885,8 @@
    "まつり"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K298",
@@ -5903,8 +5903,8 @@
    "さか"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K299",
@@ -5921,8 +5921,8 @@
    "さら"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K300",
@@ -5930,8 +5930,8 @@
   "significado": "Servir; trabalhar",
   "mundo": "Consolidação",
   "fase": 30,
-  "hiragana": "つか",
-  "romaji": "TSUKA",
+  "hiragana": "し",
+  "romaji": "SHI",
   "on": [
    "シ",
    "ジ"
@@ -5940,7 +5940,7 @@
    "つか.える"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  }
 ]
