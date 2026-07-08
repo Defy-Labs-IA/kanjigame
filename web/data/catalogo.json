@@ -1048,8 +1048,8 @@
    "ま.ず"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K052",
@@ -1057,8 +1057,8 @@
   "significado": "Mil",
   "mundo": "Natureza",
   "fase": 6,
-  "hiragana": "ち",
-  "romaji": "CHI",
+  "hiragana": "せん",
+  "romaji": "SEN",
   "on": [
    "セン"
   ],
@@ -1066,8 +1066,8 @@
    "ち"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K053",
@@ -1084,8 +1084,8 @@
    "かわ"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K054",
@@ -1093,8 +1093,8 @@
   "significado": "Cedo; rápido",
   "mundo": "Natureza",
   "fase": 6,
-  "hiragana": "はや",
-  "romaji": "HAYA",
+  "hiragana": "はやい",
+  "romaji": "HAYAI",
   "on": [
    "サッ",
    "ソウ"
@@ -1108,8 +1108,8 @@
    "はや.める"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K055",
@@ -1128,8 +1128,8 @@
    "くさ-"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K056",
@@ -1149,8 +1149,8 @@
    "た.る"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K057",
@@ -1167,8 +1167,8 @@
    "むら"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K058",
@@ -1176,8 +1176,8 @@
   "significado": "Grande",
   "mundo": "Natureza",
   "fase": 6,
-  "hiragana": "おお",
-  "romaji": "OO",
+  "hiragana": "おおきい",
+  "romaji": "OOKII",
   "on": [
    "タイ",
    "ダイ"
@@ -1188,8 +1188,8 @@
    "おお.きい"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K059",
@@ -1197,8 +1197,8 @@
   "significado": "Homem",
   "mundo": "Natureza",
   "fase": 6,
-  "hiragana": "お",
-  "romaji": "O",
+  "hiragana": "おとこ",
+  "romaji": "OTOKO",
   "on": [
    "ダン",
    "ナン"
@@ -1208,8 +1208,8 @@
    "おとこ"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K060",
@@ -1226,8 +1226,8 @@
    "たけ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K061",
@@ -1235,8 +1235,8 @@
   "significado": "Centro; dentro",
   "mundo": "Natureza",
   "fase": 7,
-  "hiragana": "あた",
-  "romaji": "ATA",
+  "hiragana": "なか",
+  "romaji": "NAKA",
   "on": [
    "チュウ"
   ],
@@ -1246,8 +1246,8 @@
    "なか"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K062",
@@ -1265,8 +1265,8 @@
    "むし"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K063",
@@ -1283,8 +1283,8 @@
    "まち"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K064",
@@ -1292,8 +1292,8 @@
   "significado": "Céu",
   "mundo": "Natureza",
   "fase": 7,
-  "hiragana": "あまつ",
-  "romaji": "AMATSU",
+  "hiragana": "てん",
+  "romaji": "TEN",
   "on": [
    "テン"
   ],
@@ -1303,8 +1303,8 @@
    "あめ"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K065",
@@ -1321,8 +1321,8 @@
    "た"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K066",
@@ -1340,8 +1340,8 @@
    "つち"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K067",
@@ -1361,8 +1361,8 @@
    "ひ"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K068",
@@ -1370,8 +1370,8 @@
   "significado": "Entrar",
   "mundo": "Natureza",
   "fase": 7,
-  "hiragana": "い",
-  "romaji": "I",
+  "hiragana": "はいる",
+  "romaji": "HAIRU",
   "on": [
    "ジュ",
    "ニュウ"
@@ -1385,8 +1385,8 @@
    "はい.る"
   ],
   "tracos": 2,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K069",
@@ -1403,8 +1403,8 @@
    "とし"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K070",
@@ -1424,8 +1424,8 @@
    "しろ.い"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K071",
@@ -1433,8 +1433,8 @@
   "significado": "Cem",
   "mundo": "Natureza",
   "fase": 8,
-  "hiragana": "もも",
-  "romaji": "MOMO",
+  "hiragana": "ひゃく",
+  "romaji": "HYAKU",
   "on": [
    "ヒャク",
    "ビャク"
@@ -1443,8 +1443,8 @@
    "もも"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K072",
@@ -1452,8 +1452,8 @@
   "significado": "Texto; literatura",
   "mundo": "Natureza",
   "fase": 8,
-  "hiragana": "あや",
-  "romaji": "AYA",
+  "hiragana": "ぶん",
+  "romaji": "BUN",
   "on": [
    "ブン",
    "モン"
@@ -1463,8 +1463,8 @@
    "ふみ"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K073",
@@ -1472,8 +1472,8 @@
   "significado": "Livro; origem",
   "mundo": "Natureza",
   "fase": 8,
-  "hiragana": "もと",
-  "romaji": "MOTO",
+  "hiragana": "ほん",
+  "romaji": "HON",
   "on": [
    "ホン"
   ],
@@ -1481,8 +1481,8 @@
    "もと"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K074",
@@ -1501,8 +1501,8 @@
    "な"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K075",
@@ -1521,8 +1521,8 @@
    "こ-"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K076",
@@ -1542,8 +1542,8 @@
    "め"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K077",
@@ -1560,8 +1560,8 @@
    "ゆう"
   ],
   "tracos": 3,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K078",
@@ -1569,8 +1569,8 @@
   "significado": "Ficar em pé",
   "mundo": "Natureza",
   "fase": 8,
-  "hiragana": "た",
-  "romaji": "TA",
+  "hiragana": "たつ",
+  "romaji": "TATSU",
   "on": [
    "リットル",
    "リツ",
@@ -1589,8 +1589,8 @@
    "たて-"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K079",
@@ -1609,8 +1609,8 @@
    "ちから"
   ],
   "tracos": 2,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K080",
@@ -1627,8 +1627,8 @@
    "はやし"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K081",
@@ -1636,8 +1636,8 @@
   "significado": "Puxar",
   "mundo": "Natureza",
   "fase": 9,
-  "hiragana": "ひ",
-  "romaji": "HI",
+  "hiragana": "ひく",
+  "romaji": "HIKU",
   "on": [
    "イン"
   ],
@@ -1646,8 +1646,8 @@
    "ひ.ける"
   ],
   "tracos": 4,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K082",
@@ -1655,8 +1655,8 @@
   "significado": "Pena; asa",
   "mundo": "Natureza",
   "fase": 9,
-  "hiragana": "は",
-  "romaji": "HA",
+  "hiragana": "はね",
+  "romaji": "HANE",
   "on": [
    "ウ"
   ],
@@ -1666,8 +1666,8 @@
    "わ"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K083",
@@ -1685,8 +1685,8 @@
    "くも"
   ],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K084",
@@ -1694,8 +1694,8 @@
   "significado": "Jardim; parque",
   "mundo": "Natureza",
   "fase": 9,
-  "hiragana": "その",
-  "romaji": "SONO",
+  "hiragana": "えん",
+  "romaji": "EN",
   "on": [
    "エン"
   ],
@@ -1703,8 +1703,8 @@
    "その"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K085",
@@ -1712,8 +1712,8 @@
   "significado": "Distante",
   "mundo": "Natureza",
   "fase": 9,
-  "hiragana": "とお",
-  "romaji": "TOO",
+  "hiragana": "とおい",
+  "romaji": "TOOI",
   "on": [
    "エン",
    "オン"
@@ -1722,8 +1722,8 @@
    "とお.い"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K086",
@@ -1742,8 +1742,8 @@
    "こ-"
   ],
   "tracos": 11,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K087",
@@ -1763,8 +1763,8 @@
    "なん-"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K088",
@@ -1783,8 +1783,8 @@
    "なつ"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K089",
@@ -1804,8 +1804,8 @@
    "や"
   ],
   "tracos": 10,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K090",
@@ -1820,8 +1820,8 @@
   ],
   "kun": [],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K091",
@@ -1839,8 +1839,8 @@
    "うた.う"
   ],
   "tracos": 14,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K092",
@@ -1848,8 +1848,8 @@
   "significado": "Imagem; traço",
   "mundo": "Natureza",
   "fase": 10,
-  "hiragana": "えが",
-  "romaji": "EGA",
+  "hiragana": "が",
+  "romaji": "GA",
   "on": [
    "エ",
    "カイ",
@@ -1864,8 +1864,8 @@
    "はかりごと"
   ],
   "tracos": 8,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K093",
@@ -1873,8 +1873,8 @@
   "significado": "Encontrar; reunião",
   "mundo": "Natureza",
   "fase": 10,
-  "hiragana": "あ",
-  "romaji": "A",
+  "hiragana": "かい",
+  "romaji": "KAI",
   "on": [
    "エ",
    "カイ"
@@ -1885,8 +1885,8 @@
    "あつ.まる"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K094",
@@ -1894,8 +1894,8 @@
   "significado": "Vez; girar",
   "mundo": "Natureza",
   "fase": 10,
-  "hiragana": "か",
-  "romaji": "KA",
+  "hiragana": "かい",
+  "romaji": "KAI",
   "on": [
    "エ",
    "カイ"
@@ -1912,8 +1912,8 @@
    "もとお.る"
   ],
   "tracos": 6,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K095",
@@ -1930,8 +1930,8 @@
    "うみ"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K096",
@@ -1947,8 +1947,8 @@
   ],
   "kun": [],
   "tracos": 12,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K097",
@@ -1970,8 +1970,8 @@
    "ほか"
   ],
   "tracos": 5,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K098",
@@ -1989,8 +1989,8 @@
    "つの"
   ],
   "tracos": 7,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K099",
@@ -1998,8 +1998,8 @@
   "significado": "Diversão; música",
   "mundo": "Natureza",
   "fase": 10,
-  "hiragana": "この",
-  "romaji": "KONO",
+  "hiragana": "たのしい",
+  "romaji": "TANOSHII",
   "on": [
    "ガク",
    "ゴウ",
@@ -2011,8 +2011,8 @@
    "たの.しむ"
   ],
   "tracos": 13,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K100",
@@ -2020,8 +2020,8 @@
   "significado": "Vida; atividade",
   "mundo": "Natureza",
   "fase": 10,
-  "hiragana": "い",
-  "romaji": "I",
+  "hiragana": "かつ",
+  "romaji": "KATSU",
   "on": [
    "カツ"
   ],
@@ -2031,8 +2031,8 @@
    "い.ける"
   ],
   "tracos": 9,
-  "needsReview": true,
-  "status": "Revisar leitura (auto)"
+  "needsReview": false,
+  "status": "Validado (revisor)"
  },
  {
   "id": "K101",
