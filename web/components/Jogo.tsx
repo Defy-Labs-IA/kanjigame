@@ -151,8 +151,9 @@ export default function Jogo({
 
   return (
     <div>
-      <div className="topbar" style={{ gap: 10, flexWrap: "wrap" }}>
+      <div className="topbar">
         <ModoSwitch />
+        <span className="ctrl-sep" />
         <SomSwitch />
       </div>
       <h2 style={{ textAlign: "center", marginTop: 0 }}>{faseNome}</h2>

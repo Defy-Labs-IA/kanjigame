@@ -28,31 +28,28 @@ export function useModo(): [Modo, (m: Modo) => void] {
   return [modo, set];
 }
 
+const OPCOES: { modo: Modo; emoji: string; titulo: string }[] = [
+  { modo: "facil", emoji: "😊", titulo: "Fácil" },
+  { modo: "avancado", emoji: "🔥", titulo: "Avançado" },
+  { modo: "superavancado", emoji: "✍️", titulo: "Superavançado" },
+];
+
 export default function ModoSwitch() {
   const [modo, setModo] = useModo();
   return (
-    <div className="modoswitch" role="tablist" aria-label="Modo de jogo">
-      <button
-        className={modo === "facil" ? "on" : ""}
-        onClick={() => setModo("facil")}
-        aria-selected={modo === "facil"}
-      >
-        😊 Fácil
-      </button>
-      <button
-        className={modo === "avancado" ? "on" : ""}
-        onClick={() => setModo("avancado")}
-        aria-selected={modo === "avancado"}
-      >
-        🔥 Avançado
-      </button>
-      <button
-        className={modo === "superavancado" ? "on" : ""}
-        onClick={() => setModo("superavancado")}
-        aria-selected={modo === "superavancado"}
-      >
-        ✍️ Superavançado
-      </button>
+    <div className="ctrls" role="tablist" aria-label="Modo de jogo">
+      {OPCOES.map((o) => (
+        <button
+          key={o.modo}
+          className={`ctrl-btn${modo === o.modo ? " on" : ""}`}
+          onClick={() => setModo(o.modo)}
+          aria-selected={modo === o.modo}
+          title={o.titulo}
+          aria-label={`Modo ${o.titulo}`}
+        >
+          {o.emoji}
+        </button>
+      ))}
     </div>
   );
 }

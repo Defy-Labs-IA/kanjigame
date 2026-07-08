@@ -29,13 +29,14 @@ export function useSom(): [boolean, (v: boolean) => void] {
 export default function SomSwitch() {
   const [som, setSom] = useSom();
   return (
-    <div className="modoswitch" role="tablist" aria-label="Som">
-      <button className={som ? "on" : ""} onClick={() => setSom(true)} aria-selected={som}>
-        🔊 Som
-      </button>
-      <button className={!som ? "on" : ""} onClick={() => setSom(false)} aria-selected={!som}>
-        🔇 Mudo
-      </button>
-    </div>
+    <button
+      className={`ctrl-btn${som ? " on" : ""}`}
+      onClick={() => setSom(!som)}
+      title={som ? "Som ligado" : "Mudo"}
+      aria-label={som ? "Desligar som" : "Ligar som"}
+      aria-pressed={som}
+    >
+      {som ? "🔊" : "🔇"}
+    </button>
   );
 }
